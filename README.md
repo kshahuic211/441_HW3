@@ -7,7 +7,7 @@ This homework deals with creating cloud simulators for evaluating executions of 
 
 How to Run
 
-The program can be run using sbt run and tested with sbt test, without any other requirements except for scala 3.0.2
+The program can be run using sbt run and tested with sbt test, without any other requirements except for scala 3.0.2.
 After giving command sbt run, there are two options given- 1) MultiDataCenter1 and 2) MultiDataCenter2
 So any of the above two simulations can be run by entering 1 or 2 as needed
 
