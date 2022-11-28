@@ -1,0 +1,1063 @@
+18:24:19.005 [sbt-bg-threads-1] INFO  CloudSim - 
+================== Starting CloudSim Plus 6.4.3 ==================
+
+18:24:19.007 [sbt-bg-threads-1] INFO  Datacenter - 0.00: DatacenterSimple1 is starting...
+18:24:19.008 [sbt-bg-threads-1] INFO  DatacenterBroker - DatacenterBrokerSimple2 is starting...
+18:24:19.008 [sbt-bg-threads-1] INFO  CloudSim - Entities started.
+18:24:19.009 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.00: DatacenterBrokerSimple2: List of 1 datacenters(s) received.
+18:24:19.009 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.00: DatacenterBrokerSimple2: Trying to create Vm 0 in DatacenterSimple1
+18:24:19.009 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.00: DatacenterBrokerSimple2: Trying to create Vm 1 in DatacenterSimple1
+18:24:19.010 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.00: DatacenterBrokerSimple2: Trying to create Vm 2 in DatacenterSimple1
+18:24:19.010 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.00: DatacenterBrokerSimple2: Trying to create Vm 3 in DatacenterSimple1
+18:24:19.010 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.00: DatacenterBrokerSimple2: Trying to create Vm 4 in DatacenterSimple1
+18:24:19.010 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.00: DatacenterBrokerSimple2: Trying to create Vm 5 in DatacenterSimple1
+18:24:19.010 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.00: DatacenterBrokerSimple2: Trying to create Vm 6 in DatacenterSimple1
+18:24:19.010 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.00: DatacenterBrokerSimple2: Trying to create Vm 7 in DatacenterSimple1
+18:24:19.015 [sbt-bg-threads-1] INFO  VmAllocationPolicy - 0.00: VmAllocationPolicySimple: Vm 0 has been allocated to Host 0/DC 1
+18:24:19.016 [sbt-bg-threads-1] INFO  VmAllocationPolicy - 0.00: VmAllocationPolicySimple: Vm 1 has been allocated to Host 1/DC 1
+18:24:19.016 [sbt-bg-threads-1] INFO  VmAllocationPolicy - 0.00: VmAllocationPolicySimple: Vm 2 has been allocated to Host 2/DC 1
+18:24:19.016 [sbt-bg-threads-1] INFO  VmAllocationPolicy - 0.00: VmAllocationPolicySimple: Vm 3 has been allocated to Host 3/DC 1
+18:24:19.017 [sbt-bg-threads-1] INFO  VmAllocationPolicy - 0.00: VmAllocationPolicySimple: Vm 4 has been allocated to Host 0/DC 1
+18:24:19.017 [sbt-bg-threads-1] INFO  VmAllocationPolicy - 0.00: VmAllocationPolicySimple: Vm 5 has been allocated to Host 1/DC 1
+18:24:19.017 [sbt-bg-threads-1] INFO  VmAllocationPolicy - 0.00: VmAllocationPolicySimple: Vm 6 has been allocated to Host 2/DC 1
+18:24:19.017 [sbt-bg-threads-1] INFO  VmAllocationPolicy - 0.00: VmAllocationPolicySimple: Vm 7 has been allocated to Host 3/DC 1
+18:24:19.018 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.10: DatacenterBrokerSimple2: Sending Cloudlet 0 to Vm 0 in Host 0/DC 1 with a requested delay of 28 seconds.
+18:24:19.018 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.10: DatacenterBrokerSimple2: Sending Cloudlet 1 to Vm 1 in Host 1/DC 1 with a requested delay of 15 seconds.
+18:24:19.018 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.10: DatacenterBrokerSimple2: Sending Cloudlet 2 to Vm 2 in Host 2/DC 1 with a requested delay of 4 seconds.
+18:24:19.018 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.10: DatacenterBrokerSimple2: Sending Cloudlet 3 to Vm 3 in Host 3/DC 1 with a requested delay of 35 seconds.
+18:24:19.018 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.10: DatacenterBrokerSimple2: Sending Cloudlet 4 to Vm 4 in Host 0/DC 1 with a requested delay of 97 seconds.
+18:24:19.018 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.10: DatacenterBrokerSimple2: Sending Cloudlet 5 to Vm 5 in Host 1/DC 1 with a requested delay of 50 seconds.
+18:24:19.019 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.10: DatacenterBrokerSimple2: Sending Cloudlet 6 to Vm 6 in Host 2/DC 1 with a requested delay of 85 seconds.
+18:24:19.019 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.10: DatacenterBrokerSimple2: Sending Cloudlet 7 to Vm 7 in Host 3/DC 1 with a requested delay of 45 seconds.
+18:24:19.019 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.10: DatacenterBrokerSimple2: Sending Cloudlet 8 to Vm 0 in Host 0/DC 1 with a requested delay of 30 seconds.
+18:24:19.019 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.10: DatacenterBrokerSimple2: Sending Cloudlet 9 to Vm 1 in Host 1/DC 1 with a requested delay of 7 seconds.
+18:24:19.019 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.10: DatacenterBrokerSimple2: Sending Cloudlet 10 to Vm 2 in Host 2/DC 1 with a requested delay of 26 seconds.
+18:24:19.020 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.10: DatacenterBrokerSimple2: Sending Cloudlet 11 to Vm 3 in Host 3/DC 1 with a requested delay of 90 seconds.
+18:24:19.020 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.10: DatacenterBrokerSimple2: Sending Cloudlet 12 to Vm 4 in Host 0/DC 1 with a requested delay of 80 seconds.
+18:24:19.020 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.10: DatacenterBrokerSimple2: Sending Cloudlet 13 to Vm 5 in Host 1/DC 1 with a requested delay of 43 seconds.
+18:24:19.020 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.10: DatacenterBrokerSimple2: Sending Cloudlet 14 to Vm 6 in Host 2/DC 1 with a requested delay of 68 seconds.
+18:24:19.020 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.10: DatacenterBrokerSimple2: Sending Cloudlet 15 to Vm 7 in Host 3/DC 1 with a requested delay of 80 seconds.
+18:24:19.020 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.10: DatacenterBrokerSimple2: Sending Cloudlet 16 to Vm 0 in Host 0/DC 1 with a requested delay of 16 seconds.
+18:24:19.020 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.10: DatacenterBrokerSimple2: Sending Cloudlet 17 to Vm 1 in Host 1/DC 1 with a requested delay of 28 seconds.
+18:24:19.021 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.10: DatacenterBrokerSimple2: Sending Cloudlet 18 to Vm 2 in Host 2/DC 1 with a requested delay of 48 seconds.
+18:24:19.021 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.10: DatacenterBrokerSimple2: Sending Cloudlet 19 to Vm 3 in Host 3/DC 1 with a requested delay of 85 seconds.
+18:24:19.021 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.10: DatacenterBrokerSimple2: Sending Cloudlet 20 to Vm 4 in Host 0/DC 1 with a requested delay of 44 seconds.
+18:24:19.021 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.10: DatacenterBrokerSimple2: Sending Cloudlet 21 to Vm 5 in Host 1/DC 1 with a requested delay of 15 seconds.
+18:24:19.021 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.10: DatacenterBrokerSimple2: Sending Cloudlet 22 to Vm 6 in Host 2/DC 1 with a requested delay of 38 seconds.
+18:24:19.023 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.10: DatacenterBrokerSimple2: Sending Cloudlet 23 to Vm 7 in Host 3/DC 1 with a requested delay of 85 seconds.
+18:24:19.023 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.10: DatacenterBrokerSimple2: Sending Cloudlet 24 to Vm 0 in Host 0/DC 1 with a requested delay of 22 seconds.
+18:24:19.024 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.10: DatacenterBrokerSimple2: Sending Cloudlet 25 to Vm 1 in Host 1/DC 1 with a requested delay of 38 seconds.
+18:24:19.024 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.10: DatacenterBrokerSimple2: Sending Cloudlet 26 to Vm 2 in Host 2/DC 1 with a requested delay of 91 seconds.
+18:24:19.025 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.10: DatacenterBrokerSimple2: Sending Cloudlet 27 to Vm 3 in Host 3/DC 1 with a requested delay of 34 seconds.
+18:24:19.025 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.10: DatacenterBrokerSimple2: Sending Cloudlet 28 to Vm 4 in Host 0/DC 1 with a requested delay of 2 seconds.
+18:24:19.025 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.10: DatacenterBrokerSimple2: Sending Cloudlet 29 to Vm 5 in Host 1/DC 1 with a requested delay of 62 seconds.
+18:24:19.026 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.10: DatacenterBrokerSimple2: Sending Cloudlet 30 to Vm 6 in Host 2/DC 1 with a requested delay of 6 seconds.
+18:24:19.026 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.10: DatacenterBrokerSimple2: Sending Cloudlet 31 to Vm 7 in Host 3/DC 1 with a requested delay of 24 seconds.
+18:24:19.027 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.10: DatacenterBrokerSimple2: Sending Cloudlet 32 to Vm 0 in Host 0/DC 1 with a requested delay of 51 seconds.
+18:24:19.027 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.10: DatacenterBrokerSimple2: Sending Cloudlet 33 to Vm 1 in Host 1/DC 1 with a requested delay of 5 seconds.
+18:24:19.027 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.10: DatacenterBrokerSimple2: Sending Cloudlet 34 to Vm 2 in Host 2/DC 1 with a requested delay of 75 seconds.
+18:24:19.027 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.10: DatacenterBrokerSimple2: Sending Cloudlet 35 to Vm 3 in Host 3/DC 1 with a requested delay of 79 seconds.
+18:24:19.027 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.10: DatacenterBrokerSimple2: Sending Cloudlet 36 to Vm 4 in Host 0/DC 1 with a requested delay of 91 seconds.
+18:24:19.027 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.10: DatacenterBrokerSimple2: Sending Cloudlet 37 to Vm 5 in Host 1/DC 1 with a requested delay of 81 seconds.
+18:24:19.027 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.10: DatacenterBrokerSimple2: Sending Cloudlet 38 to Vm 6 in Host 2/DC 1 with a requested delay of 56 seconds.
+18:24:19.028 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.10: DatacenterBrokerSimple2: Sending Cloudlet 39 to Vm 7 in Host 3/DC 1 with a requested delay of 56 seconds.
+18:24:19.028 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.10: DatacenterBrokerSimple2: Sending Cloudlet 40 to Vm 0 in Host 0/DC 1 with a requested delay of 26 seconds.
+18:24:19.028 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.10: DatacenterBrokerSimple2: Sending Cloudlet 41 to Vm 1 in Host 1/DC 1 with a requested delay of 41 seconds.
+18:24:19.028 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.10: DatacenterBrokerSimple2: Sending Cloudlet 42 to Vm 2 in Host 2/DC 1 with a requested delay of 78 seconds.
+18:24:19.028 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.10: DatacenterBrokerSimple2: Sending Cloudlet 43 to Vm 3 in Host 3/DC 1 with a requested delay of 36 seconds.
+18:24:19.028 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.10: DatacenterBrokerSimple2: Sending Cloudlet 44 to Vm 4 in Host 0/DC 1 with a requested delay of 97 seconds.
+18:24:19.029 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.10: DatacenterBrokerSimple2: Sending Cloudlet 45 to Vm 5 in Host 1/DC 1 with a requested delay of 98 seconds.
+18:24:19.029 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.10: DatacenterBrokerSimple2: Sending Cloudlet 46 to Vm 6 in Host 2/DC 1 with a requested delay of 96 seconds.
+18:24:19.029 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.10: DatacenterBrokerSimple2: Sending Cloudlet 47 to Vm 7 in Host 3/DC 1 with a requested delay of 36 seconds.
+18:24:19.029 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.10: DatacenterBrokerSimple2: Sending Cloudlet 48 to Vm 0 in Host 0/DC 1 with a requested delay of 97 seconds.
+18:24:19.029 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.10: DatacenterBrokerSimple2: Sending Cloudlet 49 to Vm 1 in Host 1/DC 1 with a requested delay of 62 seconds.
+18:24:19.029 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.10: DatacenterBrokerSimple2: Sending Cloudlet 50 to Vm 2 in Host 2/DC 1 with a requested delay of 63 seconds.
+18:24:19.030 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.10: DatacenterBrokerSimple2: Sending Cloudlet 51 to Vm 3 in Host 3/DC 1 with a requested delay of 46 seconds.
+18:24:19.030 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.10: DatacenterBrokerSimple2: Sending Cloudlet 52 to Vm 4 in Host 0/DC 1 with a requested delay of 38 seconds.
+18:24:19.030 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.10: DatacenterBrokerSimple2: Sending Cloudlet 53 to Vm 5 in Host 1/DC 1 with a requested delay of 93 seconds.
+18:24:19.030 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.10: DatacenterBrokerSimple2: Sending Cloudlet 54 to Vm 6 in Host 2/DC 1 with a requested delay of 34 seconds.
+18:24:19.030 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.10: DatacenterBrokerSimple2: Sending Cloudlet 55 to Vm 7 in Host 3/DC 1 with a requested delay of 97 seconds.
+18:24:19.030 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.10: DatacenterBrokerSimple2: Sending Cloudlet 56 to Vm 0 in Host 0/DC 1 with a requested delay of 13 seconds.
+18:24:19.030 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.10: DatacenterBrokerSimple2: Sending Cloudlet 57 to Vm 1 in Host 1/DC 1 with a requested delay of 16 seconds.
+18:24:19.031 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.10: DatacenterBrokerSimple2: Sending Cloudlet 58 to Vm 2 in Host 2/DC 1 with a requested delay of 81 seconds.
+18:24:19.031 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.10: DatacenterBrokerSimple2: Sending Cloudlet 59 to Vm 3 in Host 3/DC 1 with a requested delay of 36 seconds.
+18:24:19.031 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.10: DatacenterBrokerSimple2: Sending Cloudlet 60 to Vm 4 in Host 0/DC 1 with a requested delay of 86 seconds.
+18:24:19.031 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.10: DatacenterBrokerSimple2: Sending Cloudlet 61 to Vm 5 in Host 1/DC 1 with a requested delay of 95 seconds.
+18:24:19.031 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.10: DatacenterBrokerSimple2: Sending Cloudlet 62 to Vm 6 in Host 2/DC 1 with a requested delay of 42 seconds.
+18:24:19.031 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.10: DatacenterBrokerSimple2: Sending Cloudlet 63 to Vm 7 in Host 3/DC 1 with a requested delay of 98 seconds.
+18:24:19.031 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.10: DatacenterBrokerSimple2: Sending Cloudlet 64 to Vm 0 in Host 0/DC 1 with a requested delay of 6 seconds.
+18:24:19.031 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.10: DatacenterBrokerSimple2: Sending Cloudlet 65 to Vm 1 in Host 1/DC 1 with a requested delay of 36 seconds.
+18:24:19.032 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.10: DatacenterBrokerSimple2: Sending Cloudlet 66 to Vm 2 in Host 2/DC 1 with a requested delay of 27 seconds.
+18:24:19.032 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.10: DatacenterBrokerSimple2: Sending Cloudlet 67 to Vm 3 in Host 3/DC 1 with a requested delay of 26 seconds.
+18:24:19.032 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.10: DatacenterBrokerSimple2: Sending Cloudlet 68 to Vm 4 in Host 0/DC 1 with a requested delay of 50 seconds.
+18:24:19.032 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.10: DatacenterBrokerSimple2: Sending Cloudlet 69 to Vm 5 in Host 1/DC 1 with a requested delay of 42 seconds.
+18:24:19.032 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.10: DatacenterBrokerSimple2: Sending Cloudlet 70 to Vm 6 in Host 2/DC 1 with a requested delay of 67 seconds.
+18:24:19.032 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.10: DatacenterBrokerSimple2: Sending Cloudlet 71 to Vm 7 in Host 3/DC 1 with a requested delay of 66 seconds.
+18:24:19.032 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.10: DatacenterBrokerSimple2: Sending Cloudlet 72 to Vm 0 in Host 0/DC 1 with a requested delay of 89 seconds.
+18:24:19.032 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.10: DatacenterBrokerSimple2: Sending Cloudlet 73 to Vm 1 in Host 1/DC 1 with a requested delay of 57 seconds.
+18:24:19.033 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.10: DatacenterBrokerSimple2: Sending Cloudlet 74 to Vm 2 in Host 2/DC 1 with a requested delay of 99 seconds.
+18:24:19.033 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.10: DatacenterBrokerSimple2: Sending Cloudlet 75 to Vm 3 in Host 3/DC 1 with a requested delay of 60 seconds.
+18:24:19.033 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.10: DatacenterBrokerSimple2: Sending Cloudlet 76 to Vm 4 in Host 0/DC 1 with a requested delay of 77 seconds.
+18:24:19.033 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.10: DatacenterBrokerSimple2: Sending Cloudlet 77 to Vm 5 in Host 1/DC 1 with a requested delay of 90 seconds.
+18:24:19.033 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.10: DatacenterBrokerSimple2: Sending Cloudlet 78 to Vm 6 in Host 2/DC 1 with a requested delay of 77 seconds.
+18:24:19.033 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.10: DatacenterBrokerSimple2: Sending Cloudlet 79 to Vm 7 in Host 3/DC 1 with a requested delay of 61 seconds.
+18:24:19.033 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.10: DatacenterBrokerSimple2: Sending Cloudlet 80 to Vm 0 in Host 0/DC 1 with a requested delay of 50 seconds.
+18:24:19.033 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.10: DatacenterBrokerSimple2: Sending Cloudlet 81 to Vm 1 in Host 1/DC 1 with a requested delay of 43 seconds.
+18:24:19.034 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.10: DatacenterBrokerSimple2: Sending Cloudlet 82 to Vm 2 in Host 2/DC 1 with a requested delay of 77 seconds.
+18:24:19.034 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.10: DatacenterBrokerSimple2: Sending Cloudlet 83 to Vm 3 in Host 3/DC 1 with a requested delay of 7 seconds.
+18:24:19.034 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.10: DatacenterBrokerSimple2: Sending Cloudlet 84 to Vm 4 in Host 0/DC 1 with a requested delay of 99 seconds.
+18:24:19.034 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.10: DatacenterBrokerSimple2: Sending Cloudlet 85 to Vm 5 in Host 1/DC 1 with a requested delay of 26 seconds.
+18:24:19.035 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.10: DatacenterBrokerSimple2: Sending Cloudlet 86 to Vm 6 in Host 2/DC 1 with a requested delay of 5 seconds.
+18:24:19.035 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.10: DatacenterBrokerSimple2: Sending Cloudlet 87 to Vm 7 in Host 3/DC 1 with a requested delay of 22 seconds.
+18:24:19.035 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.10: DatacenterBrokerSimple2: Sending Cloudlet 88 to Vm 0 in Host 0/DC 1 with a requested delay of 94 seconds.
+18:24:19.035 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.10: DatacenterBrokerSimple2: Sending Cloudlet 89 to Vm 1 in Host 1/DC 1 with a requested delay of 83 seconds.
+18:24:19.035 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.10: DatacenterBrokerSimple2: Sending Cloudlet 90 to Vm 2 in Host 2/DC 1 with a requested delay of 3 seconds.
+18:24:19.035 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.10: DatacenterBrokerSimple2: Sending Cloudlet 91 to Vm 3 in Host 3/DC 1 with a requested delay of 72 seconds.
+18:24:19.035 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.10: DatacenterBrokerSimple2: Sending Cloudlet 92 to Vm 4 in Host 0/DC 1 with a requested delay of 90 seconds.
+18:24:19.035 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.10: DatacenterBrokerSimple2: Sending Cloudlet 93 to Vm 5 in Host 1/DC 1 with a requested delay of 96 seconds.
+18:24:19.036 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.10: DatacenterBrokerSimple2: Sending Cloudlet 94 to Vm 6 in Host 2/DC 1 with a requested delay of 53 seconds.
+18:24:19.036 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.10: DatacenterBrokerSimple2: Sending Cloudlet 95 to Vm 7 in Host 3/DC 1 with a requested delay of 69 seconds.
+18:24:19.036 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.10: DatacenterBrokerSimple2: Sending Cloudlet 96 to Vm 0 in Host 0/DC 1 with a requested delay of 55 seconds.
+18:24:19.036 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.10: DatacenterBrokerSimple2: Sending Cloudlet 97 to Vm 1 in Host 1/DC 1 with a requested delay of 88 seconds.
+18:24:19.036 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.10: DatacenterBrokerSimple2: Sending Cloudlet 98 to Vm 2 in Host 2/DC 1 with a requested delay of 16 seconds.
+18:24:19.036 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.10: DatacenterBrokerSimple2: Sending Cloudlet 99 to Vm 3 in Host 3/DC 1 with a requested delay of 3 seconds.
+18:24:19.036 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.10: DatacenterBrokerSimple2: All 100 waiting Cloudlets submitted to some VM.
+18:24:19.047 [sbt-bg-threads-1] INFO  DatacenterBroker - 18.88: DatacenterBrokerSimple2: Cloudlet 28 finished in Vm 4 and returned to broker.
+18:24:19.049 [sbt-bg-threads-1] INFO  DatacenterBroker - 19.88: DatacenterBrokerSimple2: Cloudlet 90 finished in Vm 2 and returned to broker.
+18:24:19.049 [sbt-bg-threads-1] INFO  DatacenterBroker - 19.88: DatacenterBrokerSimple2: Cloudlet 99 finished in Vm 3 and returned to broker.
+18:24:19.050 [sbt-bg-threads-1] INFO  DatacenterBroker - 20.88: DatacenterBrokerSimple2: Cloudlet 2 finished in Vm 2 and returned to broker.
+18:24:19.051 [sbt-bg-threads-1] INFO  DatacenterBroker - 21.88: DatacenterBrokerSimple2: Cloudlet 33 finished in Vm 1 and returned to broker.
+18:24:19.051 [sbt-bg-threads-1] INFO  DatacenterBroker - 21.88: DatacenterBrokerSimple2: Cloudlet 86 finished in Vm 6 and returned to broker.
+18:24:19.053 [sbt-bg-threads-1] INFO  DatacenterBroker - 22.88: DatacenterBrokerSimple2: Cloudlet 64 finished in Vm 0 and returned to broker.
+18:24:19.053 [sbt-bg-threads-1] INFO  DatacenterBroker - 22.88: DatacenterBrokerSimple2: Cloudlet 30 finished in Vm 6 and returned to broker.
+18:24:19.054 [sbt-bg-threads-1] INFO  DatacenterBroker - 23.88: DatacenterBrokerSimple2: Cloudlet 9 finished in Vm 1 and returned to broker.
+18:24:19.054 [sbt-bg-threads-1] INFO  DatacenterBroker - 23.88: DatacenterBrokerSimple2: Cloudlet 83 finished in Vm 3 and returned to broker.
+18:24:19.056 [sbt-bg-threads-1] INFO  DatacenterBroker - 29.88: DatacenterBrokerSimple2: Cloudlet 56 finished in Vm 0 and returned to broker.
+18:24:19.058 [sbt-bg-threads-1] INFO  DatacenterBroker - 31.88: DatacenterBrokerSimple2: Cloudlet 1 finished in Vm 1 and returned to broker.
+18:24:19.058 [sbt-bg-threads-1] INFO  DatacenterBroker - 31.88: DatacenterBrokerSimple2: Cloudlet 21 finished in Vm 5 and returned to broker.
+18:24:19.059 [sbt-bg-threads-1] INFO  DatacenterBroker - 32.88: DatacenterBrokerSimple2: Cloudlet 16 finished in Vm 0 and returned to broker.
+18:24:19.059 [sbt-bg-threads-1] INFO  DatacenterBroker - 32.88: DatacenterBrokerSimple2: Cloudlet 57 finished in Vm 1 and returned to broker.
+18:24:19.059 [sbt-bg-threads-1] INFO  DatacenterBroker - 32.88: DatacenterBrokerSimple2: Cloudlet 98 finished in Vm 2 and returned to broker.
+18:24:19.060 [sbt-bg-threads-1] INFO  DatacenterBroker - 38.88: DatacenterBrokerSimple2: Cloudlet 24 finished in Vm 0 and returned to broker.
+18:24:19.061 [sbt-bg-threads-1] INFO  DatacenterBroker - 38.88: DatacenterBrokerSimple2: Cloudlet 87 finished in Vm 7 and returned to broker.
+18:24:19.062 [sbt-bg-threads-1] INFO  DatacenterBroker - 40.88: DatacenterBrokerSimple2: Cloudlet 31 finished in Vm 7 and returned to broker.
+18:24:19.063 [sbt-bg-threads-1] INFO  DatacenterBroker - 42.88: DatacenterBrokerSimple2: Cloudlet 40 finished in Vm 0 and returned to broker.
+18:24:19.063 [sbt-bg-threads-1] INFO  DatacenterBroker - 42.88: DatacenterBrokerSimple2: Cloudlet 85 finished in Vm 5 and returned to broker.
+18:24:19.063 [sbt-bg-threads-1] INFO  DatacenterBroker - 42.88: DatacenterBrokerSimple2: Cloudlet 10 finished in Vm 2 and returned to broker.
+18:24:19.063 [sbt-bg-threads-1] INFO  DatacenterBroker - 42.88: DatacenterBrokerSimple2: Cloudlet 67 finished in Vm 3 and returned to broker.
+18:24:19.064 [sbt-bg-threads-1] INFO  DatacenterBroker - 43.88: DatacenterBrokerSimple2: Cloudlet 66 finished in Vm 2 and returned to broker.
+18:24:19.064 [sbt-bg-threads-1] INFO  DatacenterBroker - 44.88: DatacenterBrokerSimple2: Cloudlet 17 finished in Vm 1 and returned to broker.
+18:24:19.065 [sbt-bg-threads-1] INFO  DatacenterBroker - 46.76: DatacenterBrokerSimple2: Cloudlet 0 finished in Vm 0 and returned to broker.
+18:24:19.066 [sbt-bg-threads-1] INFO  DatacenterBroker - 49.76: DatacenterBrokerSimple2: Cloudlet 8 finished in Vm 0 and returned to broker.
+18:24:19.067 [sbt-bg-threads-1] INFO  DatacenterBroker - 50.88: DatacenterBrokerSimple2: Cloudlet 54 finished in Vm 6 and returned to broker.
+18:24:19.067 [sbt-bg-threads-1] INFO  DatacenterBroker - 50.88: DatacenterBrokerSimple2: Cloudlet 27 finished in Vm 3 and returned to broker.
+18:24:19.068 [sbt-bg-threads-1] INFO  DatacenterBroker - 51.88: DatacenterBrokerSimple2: Cloudlet 3 finished in Vm 3 and returned to broker.
+18:24:19.068 [sbt-bg-threads-1] INFO  DatacenterBroker - 52.88: DatacenterBrokerSimple2: Cloudlet 65 finished in Vm 1 and returned to broker.
+18:24:19.068 [sbt-bg-threads-1] INFO  DatacenterBroker - 52.88: DatacenterBrokerSimple2: Cloudlet 43 finished in Vm 3 and returned to broker.
+18:24:19.068 [sbt-bg-threads-1] INFO  DatacenterBroker - 52.88: DatacenterBrokerSimple2: Cloudlet 47 finished in Vm 7 and returned to broker.
+18:24:19.069 [sbt-bg-threads-1] INFO  DatacenterBroker - 54.88: DatacenterBrokerSimple2: Cloudlet 52 finished in Vm 4 and returned to broker.
+18:24:19.069 [sbt-bg-threads-1] INFO  DatacenterBroker - 54.88: DatacenterBrokerSimple2: Cloudlet 25 finished in Vm 1 and returned to broker.
+18:24:19.069 [sbt-bg-threads-1] INFO  DatacenterBroker - 54.88: DatacenterBrokerSimple2: Cloudlet 22 finished in Vm 6 and returned to broker.
+18:24:19.070 [sbt-bg-threads-1] INFO  DatacenterBroker - 57.88: DatacenterBrokerSimple2: Cloudlet 41 finished in Vm 1 and returned to broker.
+18:24:19.071 [sbt-bg-threads-1] INFO  DatacenterBroker - 58.88: DatacenterBrokerSimple2: Cloudlet 69 finished in Vm 5 and returned to broker.
+18:24:19.071 [sbt-bg-threads-1] INFO  DatacenterBroker - 58.88: DatacenterBrokerSimple2: Cloudlet 62 finished in Vm 6 and returned to broker.
+18:24:19.071 [sbt-bg-threads-1] INFO  DatacenterBroker - 59.76: DatacenterBrokerSimple2: Cloudlet 59 finished in Vm 3 and returned to broker.
+18:24:19.071 [sbt-bg-threads-1] INFO  DatacenterBroker - 59.87: DatacenterBrokerSimple2: Cloudlet 13 finished in Vm 5 and returned to broker.
+18:24:19.072 [sbt-bg-threads-1] INFO  DatacenterBroker - 60.89: DatacenterBrokerSimple2: Cloudlet 20 finished in Vm 4 and returned to broker.
+18:24:19.072 [sbt-bg-threads-1] INFO  DatacenterBroker - 61.76: DatacenterBrokerSimple2: Cloudlet 81 finished in Vm 1 and returned to broker.
+18:24:19.072 [sbt-bg-threads-1] INFO  DatacenterBroker - 61.87: DatacenterBrokerSimple2: Cloudlet 7 finished in Vm 7 and returned to broker.
+18:24:19.074 [sbt-bg-threads-1] INFO  DatacenterBroker - 64.88: DatacenterBrokerSimple2: Cloudlet 18 finished in Vm 2 and returned to broker.
+18:24:19.075 [sbt-bg-threads-1] INFO  DatacenterBroker - 66.89: DatacenterBrokerSimple2: Cloudlet 80 finished in Vm 0 and returned to broker.
+18:24:19.075 [sbt-bg-threads-1] INFO  DatacenterBroker - 66.89: DatacenterBrokerSimple2: Cloudlet 68 finished in Vm 4 and returned to broker.
+18:24:19.075 [sbt-bg-threads-1] INFO  DatacenterBroker - 66.89: DatacenterBrokerSimple2: Cloudlet 5 finished in Vm 5 and returned to broker.
+18:24:19.075 [sbt-bg-threads-1] INFO  DatacenterBroker - 67.76: DatacenterBrokerSimple2: Cloudlet 51 finished in Vm 3 and returned to broker.
+18:24:19.075 [sbt-bg-threads-1] INFO  DatacenterBroker - 67.87: DatacenterBrokerSimple2: Cloudlet 32 finished in Vm 0 and returned to broker.
+18:24:19.076 [sbt-bg-threads-1] INFO  DatacenterBroker - 69.88: DatacenterBrokerSimple2: Cloudlet 94 finished in Vm 6 and returned to broker.
+18:24:19.076 [sbt-bg-threads-1] INFO  DatacenterBroker - 71.88: DatacenterBrokerSimple2: Cloudlet 96 finished in Vm 0 and returned to broker.
+18:24:19.077 [sbt-bg-threads-1] INFO  DatacenterBroker - 72.88: DatacenterBrokerSimple2: Cloudlet 38 finished in Vm 6 and returned to broker.
+18:24:19.077 [sbt-bg-threads-1] INFO  DatacenterBroker - 72.88: DatacenterBrokerSimple2: Cloudlet 39 finished in Vm 7 and returned to broker.
+18:24:19.077 [sbt-bg-threads-1] INFO  DatacenterBroker - 73.88: DatacenterBrokerSimple2: Cloudlet 73 finished in Vm 1 and returned to broker.
+18:24:19.077 [sbt-bg-threads-1] INFO  DatacenterBroker - 76.88: DatacenterBrokerSimple2: Cloudlet 75 finished in Vm 3 and returned to broker.
+18:24:19.078 [sbt-bg-threads-1] INFO  DatacenterBroker - 77.88: DatacenterBrokerSimple2: Cloudlet 79 finished in Vm 7 and returned to broker.
+18:24:19.078 [sbt-bg-threads-1] INFO  DatacenterBroker - 78.88: DatacenterBrokerSimple2: Cloudlet 49 finished in Vm 1 and returned to broker.
+18:24:19.078 [sbt-bg-threads-1] INFO  DatacenterBroker - 78.88: DatacenterBrokerSimple2: Cloudlet 29 finished in Vm 5 and returned to broker.
+18:24:19.079 [sbt-bg-threads-1] INFO  DatacenterBroker - 79.88: DatacenterBrokerSimple2: Cloudlet 50 finished in Vm 2 and returned to broker.
+18:24:19.079 [sbt-bg-threads-1] INFO  DatacenterBroker - 82.88: DatacenterBrokerSimple2: Cloudlet 71 finished in Vm 7 and returned to broker.
+18:24:19.079 [sbt-bg-threads-1] INFO  DatacenterBroker - 83.88: DatacenterBrokerSimple2: Cloudlet 70 finished in Vm 6 and returned to broker.
+18:24:19.080 [sbt-bg-threads-1] INFO  DatacenterBroker - 84.88: DatacenterBrokerSimple2: Cloudlet 14 finished in Vm 6 and returned to broker.
+18:24:19.080 [sbt-bg-threads-1] INFO  DatacenterBroker - 85.88: DatacenterBrokerSimple2: Cloudlet 95 finished in Vm 7 and returned to broker.
+18:24:19.081 [sbt-bg-threads-1] INFO  DatacenterBroker - 88.88: DatacenterBrokerSimple2: Cloudlet 91 finished in Vm 3 and returned to broker.
+18:24:19.081 [sbt-bg-threads-1] INFO  DatacenterBroker - 91.88: DatacenterBrokerSimple2: Cloudlet 34 finished in Vm 2 and returned to broker.
+18:24:19.082 [sbt-bg-threads-1] INFO  DatacenterBroker - 93.88: DatacenterBrokerSimple2: Cloudlet 76 finished in Vm 4 and returned to broker.
+18:24:19.082 [sbt-bg-threads-1] INFO  DatacenterBroker - 93.88: DatacenterBrokerSimple2: Cloudlet 82 finished in Vm 2 and returned to broker.
+18:24:19.082 [sbt-bg-threads-1] INFO  DatacenterBroker - 93.88: DatacenterBrokerSimple2: Cloudlet 78 finished in Vm 6 and returned to broker.
+18:24:19.082 [sbt-bg-threads-1] INFO  DatacenterBroker - 94.88: DatacenterBrokerSimple2: Cloudlet 42 finished in Vm 2 and returned to broker.
+18:24:19.083 [sbt-bg-threads-1] INFO  DatacenterBroker - 95.88: DatacenterBrokerSimple2: Cloudlet 35 finished in Vm 3 and returned to broker.
+18:24:19.083 [sbt-bg-threads-1] INFO  DatacenterBroker - 96.88: DatacenterBrokerSimple2: Cloudlet 12 finished in Vm 4 and returned to broker.
+18:24:19.083 [sbt-bg-threads-1] INFO  DatacenterBroker - 96.88: DatacenterBrokerSimple2: Cloudlet 15 finished in Vm 7 and returned to broker.
+18:24:19.084 [sbt-bg-threads-1] INFO  DatacenterBroker - 97.88: DatacenterBrokerSimple2: Cloudlet 37 finished in Vm 5 and returned to broker.
+18:24:19.084 [sbt-bg-threads-1] INFO  DatacenterBroker - 97.88: DatacenterBrokerSimple2: Cloudlet 58 finished in Vm 2 and returned to broker.
+18:24:19.084 [sbt-bg-threads-1] INFO  DatacenterBroker - 99.88: DatacenterBrokerSimple2: Cloudlet 89 finished in Vm 1 and returned to broker.
+18:24:19.087 [sbt-bg-threads-1] INFO  CloudSim - 101.00: Processing last events before simulation shutdown.
+18:24:19.088 [sbt-bg-threads-1] INFO  DatacenterBroker - 101.00: DatacenterBrokerSimple2 is shutting down...
+18:24:19.088 [sbt-bg-threads-1] INFO  DatacenterBroker - 101.00: DatacenterBrokerSimple2: Requesting Vm 7 destruction.
+18:24:19.088 [sbt-bg-threads-1] INFO  DatacenterBroker - 101.00: DatacenterBrokerSimple2: Requesting Vm 6 destruction.
+18:24:19.088 [sbt-bg-threads-1] INFO  DatacenterBroker - 101.00: DatacenterBrokerSimple2: Requesting Vm 5 destruction.
+18:24:19.088 [sbt-bg-threads-1] INFO  DatacenterBroker - 101.00: DatacenterBrokerSimple2: Requesting Vm 4 destruction.
+18:24:19.088 [sbt-bg-threads-1] INFO  DatacenterBroker - 101.00: DatacenterBrokerSimple2: Requesting Vm 3 destruction.
+18:24:19.088 [sbt-bg-threads-1] INFO  DatacenterBroker - 101.00: DatacenterBrokerSimple2: Requesting Vm 2 destruction.
+18:24:19.089 [sbt-bg-threads-1] INFO  DatacenterBroker - 101.00: DatacenterBrokerSimple2: Requesting Vm 1 destruction.
+18:24:19.089 [sbt-bg-threads-1] INFO  DatacenterBroker - 101.00: DatacenterBrokerSimple2: Requesting Vm 0 destruction.
+18:24:19.090 [sbt-bg-threads-1] INFO  Datacenter - 101.00: DatacenterSimple: Vm 7 destroyed on Host 3/DC 1. It had a total of 3 cloudlets (running + waiting). Some events may have been missed. You can try: (a) decreasing CloudSim's minTimeBetweenEvents and/or Datacenter's schedulingInterval attribute; (b) increasing broker's Vm destruction delay for idle VMs if you set it to zero; (c) defining Cloudlets with smaller length (your Datacenter's scheduling interval may be smaller than the time to finish some Cloudlets).
+18:24:19.091 [sbt-bg-threads-1] INFO  Datacenter - 101.00: DatacenterSimple: Vm 6 destroyed on Host 2/DC 1. It had a total of 2 cloudlets (running + waiting). Some events may have been missed. You can try: (a) decreasing CloudSim's minTimeBetweenEvents and/or Datacenter's schedulingInterval attribute; (b) increasing broker's Vm destruction delay for idle VMs if you set it to zero; (c) defining Cloudlets with smaller length (your Datacenter's scheduling interval may be smaller than the time to finish some Cloudlets).
+18:24:19.091 [sbt-bg-threads-1] INFO  Datacenter - 101.00: DatacenterSimple: Vm 5 destroyed on Host 1/DC 1. It had a total of 5 cloudlets (running + waiting). Some events may have been missed. You can try: (a) decreasing CloudSim's minTimeBetweenEvents and/or Datacenter's schedulingInterval attribute; (b) increasing broker's Vm destruction delay for idle VMs if you set it to zero; (c) defining Cloudlets with smaller length (your Datacenter's scheduling interval may be smaller than the time to finish some Cloudlets).
+18:24:19.093 [sbt-bg-threads-1] INFO  Datacenter - 101.00: DatacenterSimple: Vm 4 destroyed on Host 0/DC 1. It had a total of 6 cloudlets (running + waiting). Some events may have been missed. You can try: (a) decreasing CloudSim's minTimeBetweenEvents and/or Datacenter's schedulingInterval attribute; (b) increasing broker's Vm destruction delay for idle VMs if you set it to zero; (c) defining Cloudlets with smaller length (your Datacenter's scheduling interval may be smaller than the time to finish some Cloudlets).
+18:24:19.093 [sbt-bg-threads-1] INFO  Datacenter - 101.00: DatacenterSimple: Vm 3 destroyed on Host 3/DC 1. It had a total of 2 cloudlets (running + waiting). Some events may have been missed. You can try: (a) decreasing CloudSim's minTimeBetweenEvents and/or Datacenter's schedulingInterval attribute; (b) increasing broker's Vm destruction delay for idle VMs if you set it to zero; (c) defining Cloudlets with smaller length (your Datacenter's scheduling interval may be smaller than the time to finish some Cloudlets).
+18:24:19.095 [sbt-bg-threads-1] INFO  Datacenter - 101.00: DatacenterSimple: Vm 2 destroyed on Host 2/DC 1. It had a total of 2 cloudlets (running + waiting). Some events may have been missed. You can try: (a) decreasing CloudSim's minTimeBetweenEvents and/or Datacenter's schedulingInterval attribute; (b) increasing broker's Vm destruction delay for idle VMs if you set it to zero; (c) defining Cloudlets with smaller length (your Datacenter's scheduling interval may be smaller than the time to finish some Cloudlets).
+18:24:19.095 [sbt-bg-threads-1] INFO  Datacenter - 101.00: DatacenterSimple: Vm 1 destroyed on Host 1/DC 1. It had a total of 1 cloudlets (running + waiting). Some events may have been missed. You can try: (a) decreasing CloudSim's minTimeBetweenEvents and/or Datacenter's schedulingInterval attribute; (b) increasing broker's Vm destruction delay for idle VMs if you set it to zero; (c) defining Cloudlets with smaller length (your Datacenter's scheduling interval may be smaller than the time to finish some Cloudlets).
+18:24:19.097 [sbt-bg-threads-1] INFO  Datacenter - 101.00: DatacenterSimple: Vm 0 destroyed on Host 0/DC 1. It had a total of 3 cloudlets (running + waiting). Some events may have been missed. You can try: (a) decreasing CloudSim's minTimeBetweenEvents and/or Datacenter's schedulingInterval attribute; (b) increasing broker's Vm destruction delay for idle VMs if you set it to zero; (c) defining Cloudlets with smaller length (your Datacenter's scheduling interval may be smaller than the time to finish some Cloudlets).
+18:24:19.097 [sbt-bg-threads-1] INFO  CloudSim - Simulation: No more future events
+
+18:24:19.097 [sbt-bg-threads-1] INFO  CloudInformationService - CloudInformationService0: Notify all CloudSim Plus entities to shutdown.
+
+18:24:19.098 [sbt-bg-threads-1] INFO  CloudSim - 
+================== Simulation finished at time 101.77, before completing, in reason of an explicit request to terminate() or terminateAt() ==================
+
+18:24:19.144 [sbt-bg-threads-1] INFO  java.lang.Class - Total execution time = 808.0 seconds
+18:24:19.144 [sbt-bg-threads-1] INFO  java.lang.Class - Total cost = 1446.0599999999997 cost units
+18:24:19.144 [sbt-bg-threads-1] INFO  java.lang.Class - Total non idle vms = 8
+18:24:19.144 [sbt-bg-threads-1] INFO  java.lang.Class - Total processing cost = 6.060000000000001 cost units
+18:24:19.144 [sbt-bg-threads-1] INFO  java.lang.Class - Total memory cost = 960.0 cost units
+18:24:19.144 [sbt-bg-threads-1] INFO  java.lang.Class - Total BW cost = 400.0 cost units
+18:24:19.144 [sbt-bg-threads-1] INFO  java.lang.Class - Total storage cost = 80.0 cost units
+18:24:27.741 [sbt-bg-threads-1] INFO  CloudSim - 
+================== Starting CloudSim Plus 6.4.3 ==================
+
+18:24:27.744 [sbt-bg-threads-1] INFO  Datacenter - 0.00: DatacenterSimple1 is starting...
+18:24:27.745 [sbt-bg-threads-1] INFO  DatacenterBroker - DatacenterBrokerSimple2 is starting...
+18:24:27.745 [sbt-bg-threads-1] INFO  CloudSim - Entities started.
+18:24:27.746 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.00: DatacenterBrokerSimple2: List of 1 datacenters(s) received.
+18:24:27.746 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.00: DatacenterBrokerSimple2: Trying to create Vm 0 in DatacenterSimple1
+18:24:27.747 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.00: DatacenterBrokerSimple2: Trying to create Vm 1 in DatacenterSimple1
+18:24:27.747 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.00: DatacenterBrokerSimple2: Trying to create Vm 2 in DatacenterSimple1
+18:24:27.747 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.00: DatacenterBrokerSimple2: Trying to create Vm 3 in DatacenterSimple1
+18:24:27.747 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.00: DatacenterBrokerSimple2: Trying to create Vm 4 in DatacenterSimple1
+18:24:27.747 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.00: DatacenterBrokerSimple2: Trying to create Vm 5 in DatacenterSimple1
+18:24:27.748 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.00: DatacenterBrokerSimple2: Trying to create Vm 6 in DatacenterSimple1
+18:24:27.748 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.00: DatacenterBrokerSimple2: Trying to create Vm 7 in DatacenterSimple1
+18:24:27.751 [sbt-bg-threads-1] INFO  VmAllocationPolicy - 0.00: VmAllocationPolicySimple: Vm 0 has been allocated to Host 0/DC 1
+18:24:27.752 [sbt-bg-threads-1] INFO  VmAllocationPolicy - 0.00: VmAllocationPolicySimple: Vm 1 has been allocated to Host 1/DC 1
+18:24:27.752 [sbt-bg-threads-1] INFO  VmAllocationPolicy - 0.00: VmAllocationPolicySimple: Vm 2 has been allocated to Host 2/DC 1
+18:24:27.752 [sbt-bg-threads-1] INFO  VmAllocationPolicy - 0.00: VmAllocationPolicySimple: Vm 3 has been allocated to Host 3/DC 1
+18:24:27.752 [sbt-bg-threads-1] INFO  VmAllocationPolicy - 0.00: VmAllocationPolicySimple: Vm 4 has been allocated to Host 0/DC 1
+18:24:27.753 [sbt-bg-threads-1] INFO  VmAllocationPolicy - 0.00: VmAllocationPolicySimple: Vm 5 has been allocated to Host 1/DC 1
+18:24:27.753 [sbt-bg-threads-1] INFO  VmAllocationPolicy - 0.00: VmAllocationPolicySimple: Vm 6 has been allocated to Host 2/DC 1
+18:24:27.753 [sbt-bg-threads-1] INFO  VmAllocationPolicy - 0.00: VmAllocationPolicySimple: Vm 7 has been allocated to Host 3/DC 1
+18:24:27.754 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.10: DatacenterBrokerSimple2: Sending Cloudlet 0 to Vm 0 in Host 0/DC 1 with a requested delay of 56 seconds.
+18:24:27.754 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.10: DatacenterBrokerSimple2: Sending Cloudlet 1 to Vm 1 in Host 1/DC 1 with a requested delay of 24 seconds.
+18:24:27.754 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.10: DatacenterBrokerSimple2: Sending Cloudlet 2 to Vm 2 in Host 2/DC 1 with a requested delay of 44 seconds.
+18:24:27.754 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.10: DatacenterBrokerSimple2: Sending Cloudlet 3 to Vm 3 in Host 3/DC 1 with a requested delay of 2 seconds.
+18:24:27.754 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.10: DatacenterBrokerSimple2: Sending Cloudlet 4 to Vm 4 in Host 0/DC 1 with a requested delay of 29 seconds.
+18:24:27.754 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.10: DatacenterBrokerSimple2: Sending Cloudlet 5 to Vm 5 in Host 1/DC 1 with a requested delay of 64 seconds.
+18:24:27.754 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.10: DatacenterBrokerSimple2: Sending Cloudlet 6 to Vm 6 in Host 2/DC 1 with a requested delay of 79 seconds.
+18:24:27.755 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.10: DatacenterBrokerSimple2: Sending Cloudlet 7 to Vm 7 in Host 3/DC 1 with a requested delay of 29 seconds.
+18:24:27.755 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.10: DatacenterBrokerSimple2: Sending Cloudlet 8 to Vm 0 in Host 0/DC 1 with a requested delay of 38 seconds.
+18:24:27.755 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.10: DatacenterBrokerSimple2: Sending Cloudlet 9 to Vm 1 in Host 1/DC 1 with a requested delay of 16 seconds.
+18:24:27.755 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.10: DatacenterBrokerSimple2: Sending Cloudlet 10 to Vm 2 in Host 2/DC 1 with a requested delay of 37 seconds.
+18:24:27.755 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.10: DatacenterBrokerSimple2: Sending Cloudlet 11 to Vm 3 in Host 3/DC 1 with a requested delay of 39 seconds.
+18:24:27.755 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.10: DatacenterBrokerSimple2: Sending Cloudlet 12 to Vm 4 in Host 0/DC 1 with a requested delay of 18 seconds.
+18:24:27.755 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.10: DatacenterBrokerSimple2: Sending Cloudlet 13 to Vm 5 in Host 1/DC 1 with a requested delay of 84 seconds.
+18:24:27.755 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.10: DatacenterBrokerSimple2: Sending Cloudlet 14 to Vm 6 in Host 2/DC 1 with a requested delay of 69 seconds.
+18:24:27.756 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.10: DatacenterBrokerSimple2: Sending Cloudlet 15 to Vm 7 in Host 3/DC 1 with a requested delay of 84 seconds.
+18:24:27.756 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.10: DatacenterBrokerSimple2: Sending Cloudlet 16 to Vm 0 in Host 0/DC 1 with a requested delay of 14 seconds.
+18:24:27.756 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.10: DatacenterBrokerSimple2: Sending Cloudlet 17 to Vm 1 in Host 1/DC 1 with a requested delay of 81 seconds.
+18:24:27.756 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.10: DatacenterBrokerSimple2: Sending Cloudlet 18 to Vm 2 in Host 2/DC 1 with a requested delay of 21 seconds.
+18:24:27.756 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.10: DatacenterBrokerSimple2: Sending Cloudlet 19 to Vm 3 in Host 3/DC 1 with a requested delay of 94 seconds.
+18:24:27.756 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.10: DatacenterBrokerSimple2: Sending Cloudlet 20 to Vm 4 in Host 0/DC 1 with a requested delay of 46 seconds.
+18:24:27.756 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.10: DatacenterBrokerSimple2: Sending Cloudlet 21 to Vm 5 in Host 1/DC 1 with a requested delay of 39 seconds.
+18:24:27.757 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.10: DatacenterBrokerSimple2: Sending Cloudlet 22 to Vm 6 in Host 2/DC 1 with a requested delay of 31 seconds.
+18:24:27.757 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.10: DatacenterBrokerSimple2: Sending Cloudlet 23 to Vm 7 in Host 3/DC 1 with a requested delay of 43 seconds.
+18:24:27.757 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.10: DatacenterBrokerSimple2: Sending Cloudlet 24 to Vm 0 in Host 0/DC 1 with a requested delay of 77 seconds.
+18:24:27.757 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.10: DatacenterBrokerSimple2: Sending Cloudlet 25 to Vm 1 in Host 1/DC 1 with a requested delay of 14 seconds.
+18:24:27.757 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.10: DatacenterBrokerSimple2: Sending Cloudlet 26 to Vm 2 in Host 2/DC 1 with a requested delay of 76 seconds.
+18:24:27.757 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.10: DatacenterBrokerSimple2: Sending Cloudlet 27 to Vm 3 in Host 3/DC 1 with a requested delay of 8 seconds.
+18:24:27.757 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.10: DatacenterBrokerSimple2: Sending Cloudlet 28 to Vm 4 in Host 0/DC 1 with a requested delay of 12 seconds.
+18:24:27.758 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.10: DatacenterBrokerSimple2: Sending Cloudlet 29 to Vm 5 in Host 1/DC 1 with a requested delay of 16 seconds.
+18:24:27.758 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.10: DatacenterBrokerSimple2: Sending Cloudlet 30 to Vm 6 in Host 2/DC 1 with a requested delay of 8 seconds.
+18:24:27.758 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.10: DatacenterBrokerSimple2: Sending Cloudlet 31 to Vm 7 in Host 3/DC 1 with a requested delay of 17 seconds.
+18:24:27.758 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.10: DatacenterBrokerSimple2: Sending Cloudlet 32 to Vm 0 in Host 0/DC 1 with a requested delay of 26 seconds.
+18:24:27.758 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.10: DatacenterBrokerSimple2: Sending Cloudlet 33 to Vm 1 in Host 1/DC 1 with a requested delay of 1 seconds.
+18:24:27.758 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.10: DatacenterBrokerSimple2: Sending Cloudlet 34 to Vm 2 in Host 2/DC 1 with a requested delay of 24 seconds.
+18:24:27.759 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.10: DatacenterBrokerSimple2: Sending Cloudlet 35 to Vm 3 in Host 3/DC 1.
+18:24:27.759 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.10: DatacenterBrokerSimple2: Sending Cloudlet 36 to Vm 4 in Host 0/DC 1 with a requested delay of 83 seconds.
+18:24:27.760 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.10: DatacenterBrokerSimple2: Sending Cloudlet 37 to Vm 5 in Host 1/DC 1 with a requested delay of 53 seconds.
+18:24:27.761 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.10: DatacenterBrokerSimple2: Sending Cloudlet 38 to Vm 6 in Host 2/DC 1 with a requested delay of 44 seconds.
+18:24:27.761 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.10: DatacenterBrokerSimple2: Sending Cloudlet 39 to Vm 7 in Host 3/DC 1 with a requested delay of 38 seconds.
+18:24:27.761 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.10: DatacenterBrokerSimple2: Sending Cloudlet 40 to Vm 0 in Host 0/DC 1 with a requested delay of 31 seconds.
+18:24:27.761 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.10: DatacenterBrokerSimple2: Sending Cloudlet 41 to Vm 1 in Host 1/DC 1 with a requested delay of 3 seconds.
+18:24:27.761 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.10: DatacenterBrokerSimple2: Sending Cloudlet 42 to Vm 2 in Host 2/DC 1 with a requested delay of 27 seconds.
+18:24:27.762 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.10: DatacenterBrokerSimple2: Sending Cloudlet 43 to Vm 3 in Host 3/DC 1 with a requested delay of 93 seconds.
+18:24:27.762 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.10: DatacenterBrokerSimple2: Sending Cloudlet 44 to Vm 4 in Host 0/DC 1 with a requested delay of 91 seconds.
+18:24:27.763 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.10: DatacenterBrokerSimple2: Sending Cloudlet 45 to Vm 5 in Host 1/DC 1 with a requested delay of 72 seconds.
+18:24:27.763 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.10: DatacenterBrokerSimple2: Sending Cloudlet 46 to Vm 6 in Host 2/DC 1 with a requested delay of 42 seconds.
+18:24:27.763 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.10: DatacenterBrokerSimple2: Sending Cloudlet 47 to Vm 7 in Host 3/DC 1 with a requested delay of 9 seconds.
+18:24:27.763 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.10: DatacenterBrokerSimple2: Sending Cloudlet 48 to Vm 0 in Host 0/DC 1 with a requested delay of 59 seconds.
+18:24:27.763 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.10: DatacenterBrokerSimple2: Sending Cloudlet 49 to Vm 1 in Host 1/DC 1 with a requested delay of 96 seconds.
+18:24:27.763 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.10: DatacenterBrokerSimple2: Sending Cloudlet 50 to Vm 2 in Host 2/DC 1 with a requested delay of 83 seconds.
+18:24:27.764 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.10: DatacenterBrokerSimple2: Sending Cloudlet 51 to Vm 3 in Host 3/DC 1 with a requested delay of 70 seconds.
+18:24:27.764 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.10: DatacenterBrokerSimple2: Sending Cloudlet 52 to Vm 4 in Host 0/DC 1 with a requested delay of 70 seconds.
+18:24:27.764 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.10: DatacenterBrokerSimple2: Sending Cloudlet 53 to Vm 5 in Host 1/DC 1 with a requested delay of 56 seconds.
+18:24:27.764 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.10: DatacenterBrokerSimple2: Sending Cloudlet 54 to Vm 6 in Host 2/DC 1 with a requested delay of 8 seconds.
+18:24:27.764 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.10: DatacenterBrokerSimple2: Sending Cloudlet 55 to Vm 7 in Host 3/DC 1 with a requested delay of 78 seconds.
+18:24:27.764 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.10: DatacenterBrokerSimple2: Sending Cloudlet 56 to Vm 0 in Host 0/DC 1 with a requested delay of 59 seconds.
+18:24:27.764 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.10: DatacenterBrokerSimple2: Sending Cloudlet 57 to Vm 1 in Host 1/DC 1 with a requested delay of 8 seconds.
+18:24:27.764 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.10: DatacenterBrokerSimple2: Sending Cloudlet 58 to Vm 2 in Host 2/DC 1 with a requested delay of 83 seconds.
+18:24:27.765 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.10: DatacenterBrokerSimple2: Sending Cloudlet 59 to Vm 3 in Host 3/DC 1 with a requested delay of 73 seconds.
+18:24:27.765 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.10: DatacenterBrokerSimple2: Sending Cloudlet 60 to Vm 4 in Host 0/DC 1 with a requested delay of 17 seconds.
+18:24:27.765 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.10: DatacenterBrokerSimple2: Sending Cloudlet 61 to Vm 5 in Host 1/DC 1 with a requested delay of 72 seconds.
+18:24:27.765 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.10: DatacenterBrokerSimple2: Sending Cloudlet 62 to Vm 6 in Host 2/DC 1 with a requested delay of 47 seconds.
+18:24:27.765 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.10: DatacenterBrokerSimple2: Sending Cloudlet 63 to Vm 7 in Host 3/DC 1 with a requested delay of 9 seconds.
+18:24:27.765 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.10: DatacenterBrokerSimple2: Sending Cloudlet 64 to Vm 0 in Host 0/DC 1 with a requested delay of 55 seconds.
+18:24:27.765 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.10: DatacenterBrokerSimple2: Sending Cloudlet 65 to Vm 1 in Host 1/DC 1 with a requested delay of 30 seconds.
+18:24:27.765 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.10: DatacenterBrokerSimple2: Sending Cloudlet 66 to Vm 2 in Host 2/DC 1 with a requested delay of 24 seconds.
+18:24:27.765 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.10: DatacenterBrokerSimple2: Sending Cloudlet 67 to Vm 3 in Host 3/DC 1 with a requested delay of 25 seconds.
+18:24:27.766 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.10: DatacenterBrokerSimple2: Sending Cloudlet 68 to Vm 4 in Host 0/DC 1 with a requested delay of 59 seconds.
+18:24:27.766 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.10: DatacenterBrokerSimple2: Sending Cloudlet 69 to Vm 5 in Host 1/DC 1.
+18:24:27.766 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.10: DatacenterBrokerSimple2: Sending Cloudlet 70 to Vm 6 in Host 2/DC 1 with a requested delay of 97 seconds.
+18:24:27.766 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.10: DatacenterBrokerSimple2: Sending Cloudlet 71 to Vm 7 in Host 3/DC 1 with a requested delay of 17 seconds.
+18:24:27.766 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.10: DatacenterBrokerSimple2: Sending Cloudlet 72 to Vm 0 in Host 0/DC 1 with a requested delay of 36 seconds.
+18:24:27.766 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.10: DatacenterBrokerSimple2: Sending Cloudlet 73 to Vm 1 in Host 1/DC 1 with a requested delay of 13 seconds.
+18:24:27.766 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.10: DatacenterBrokerSimple2: Sending Cloudlet 74 to Vm 2 in Host 2/DC 1 with a requested delay of 96 seconds.
+18:24:27.767 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.10: DatacenterBrokerSimple2: Sending Cloudlet 75 to Vm 3 in Host 3/DC 1 with a requested delay of 3 seconds.
+18:24:27.767 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.10: DatacenterBrokerSimple2: Sending Cloudlet 76 to Vm 4 in Host 0/DC 1 with a requested delay of 13 seconds.
+18:24:27.767 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.10: DatacenterBrokerSimple2: Sending Cloudlet 77 to Vm 5 in Host 1/DC 1 with a requested delay of 62 seconds.
+18:24:27.767 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.10: DatacenterBrokerSimple2: Sending Cloudlet 78 to Vm 6 in Host 2/DC 1 with a requested delay of 12 seconds.
+18:24:27.767 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.10: DatacenterBrokerSimple2: Sending Cloudlet 79 to Vm 7 in Host 3/DC 1 with a requested delay of 45 seconds.
+18:24:27.767 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.10: DatacenterBrokerSimple2: Sending Cloudlet 80 to Vm 0 in Host 0/DC 1 with a requested delay of 53 seconds.
+18:24:27.767 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.10: DatacenterBrokerSimple2: Sending Cloudlet 81 to Vm 1 in Host 1/DC 1 with a requested delay of 73 seconds.
+18:24:27.767 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.10: DatacenterBrokerSimple2: Sending Cloudlet 82 to Vm 2 in Host 2/DC 1 with a requested delay of 99 seconds.
+18:24:27.767 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.10: DatacenterBrokerSimple2: Sending Cloudlet 83 to Vm 3 in Host 3/DC 1 with a requested delay of 43 seconds.
+18:24:27.768 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.10: DatacenterBrokerSimple2: Sending Cloudlet 84 to Vm 4 in Host 0/DC 1 with a requested delay of 14 seconds.
+18:24:27.768 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.10: DatacenterBrokerSimple2: Sending Cloudlet 85 to Vm 5 in Host 1/DC 1 with a requested delay of 62 seconds.
+18:24:27.768 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.10: DatacenterBrokerSimple2: Sending Cloudlet 86 to Vm 6 in Host 2/DC 1 with a requested delay of 86 seconds.
+18:24:27.768 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.10: DatacenterBrokerSimple2: Sending Cloudlet 87 to Vm 7 in Host 3/DC 1 with a requested delay of 46 seconds.
+18:24:27.768 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.10: DatacenterBrokerSimple2: Sending Cloudlet 88 to Vm 0 in Host 0/DC 1 with a requested delay of 16 seconds.
+18:24:27.769 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.10: DatacenterBrokerSimple2: Sending Cloudlet 89 to Vm 1 in Host 1/DC 1 with a requested delay of 70 seconds.
+18:24:27.769 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.10: DatacenterBrokerSimple2: Sending Cloudlet 90 to Vm 2 in Host 2/DC 1 with a requested delay of 50 seconds.
+18:24:27.769 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.10: DatacenterBrokerSimple2: Sending Cloudlet 91 to Vm 3 in Host 3/DC 1 with a requested delay of 63 seconds.
+18:24:27.769 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.10: DatacenterBrokerSimple2: Sending Cloudlet 92 to Vm 4 in Host 0/DC 1 with a requested delay of 91 seconds.
+18:24:27.769 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.10: DatacenterBrokerSimple2: Sending Cloudlet 93 to Vm 5 in Host 1/DC 1 with a requested delay of 21 seconds.
+18:24:27.769 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.10: DatacenterBrokerSimple2: Sending Cloudlet 94 to Vm 6 in Host 2/DC 1 with a requested delay of 53 seconds.
+18:24:27.769 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.10: DatacenterBrokerSimple2: Sending Cloudlet 95 to Vm 7 in Host 3/DC 1 with a requested delay of 30 seconds.
+18:24:27.769 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.10: DatacenterBrokerSimple2: Sending Cloudlet 96 to Vm 0 in Host 0/DC 1 with a requested delay of 87 seconds.
+18:24:27.769 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.10: DatacenterBrokerSimple2: Sending Cloudlet 97 to Vm 1 in Host 1/DC 1 with a requested delay of 41 seconds.
+18:24:27.770 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.10: DatacenterBrokerSimple2: Sending Cloudlet 98 to Vm 2 in Host 2/DC 1 with a requested delay of 58 seconds.
+18:24:27.770 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.10: DatacenterBrokerSimple2: Sending Cloudlet 99 to Vm 3 in Host 3/DC 1 with a requested delay of 23 seconds.
+18:24:27.770 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.10: DatacenterBrokerSimple2: All 100 waiting Cloudlets submitted to some VM.
+18:24:27.784 [sbt-bg-threads-1] INFO  DatacenterBroker - 16.88: DatacenterBrokerSimple2: Cloudlet 69 finished in Vm 5 and returned to broker.
+18:24:27.784 [sbt-bg-threads-1] INFO  DatacenterBroker - 16.88: DatacenterBrokerSimple2: Cloudlet 35 finished in Vm 3 and returned to broker.
+18:24:27.786 [sbt-bg-threads-1] INFO  DatacenterBroker - 17.88: DatacenterBrokerSimple2: Cloudlet 33 finished in Vm 1 and returned to broker.
+18:24:27.787 [sbt-bg-threads-1] INFO  DatacenterBroker - 18.88: DatacenterBrokerSimple2: Cloudlet 3 finished in Vm 3 and returned to broker.
+18:24:27.789 [sbt-bg-threads-1] INFO  DatacenterBroker - 19.88: DatacenterBrokerSimple2: Cloudlet 41 finished in Vm 1 and returned to broker.
+18:24:27.789 [sbt-bg-threads-1] INFO  DatacenterBroker - 19.88: DatacenterBrokerSimple2: Cloudlet 75 finished in Vm 3 and returned to broker.
+18:24:27.791 [sbt-bg-threads-1] INFO  DatacenterBroker - 24.88: DatacenterBrokerSimple2: Cloudlet 57 finished in Vm 1 and returned to broker.
+18:24:27.791 [sbt-bg-threads-1] INFO  DatacenterBroker - 24.88: DatacenterBrokerSimple2: Cloudlet 30 finished in Vm 6 and returned to broker.
+18:24:27.791 [sbt-bg-threads-1] INFO  DatacenterBroker - 24.88: DatacenterBrokerSimple2: Cloudlet 54 finished in Vm 6 and returned to broker.
+18:24:27.791 [sbt-bg-threads-1] INFO  DatacenterBroker - 24.88: DatacenterBrokerSimple2: Cloudlet 27 finished in Vm 3 and returned to broker.
+18:24:27.792 [sbt-bg-threads-1] INFO  DatacenterBroker - 25.88: DatacenterBrokerSimple2: Cloudlet 47 finished in Vm 7 and returned to broker.
+18:24:27.793 [sbt-bg-threads-1] INFO  DatacenterBroker - 25.88: DatacenterBrokerSimple2: Cloudlet 63 finished in Vm 7 and returned to broker.
+18:24:27.794 [sbt-bg-threads-1] INFO  DatacenterBroker - 28.88: DatacenterBrokerSimple2: Cloudlet 28 finished in Vm 4 and returned to broker.
+18:24:27.794 [sbt-bg-threads-1] INFO  DatacenterBroker - 28.88: DatacenterBrokerSimple2: Cloudlet 78 finished in Vm 6 and returned to broker.
+18:24:27.795 [sbt-bg-threads-1] INFO  DatacenterBroker - 29.88: DatacenterBrokerSimple2: Cloudlet 76 finished in Vm 4 and returned to broker.
+18:24:27.795 [sbt-bg-threads-1] INFO  DatacenterBroker - 29.88: DatacenterBrokerSimple2: Cloudlet 73 finished in Vm 1 and returned to broker.
+18:24:27.796 [sbt-bg-threads-1] INFO  DatacenterBroker - 30.88: DatacenterBrokerSimple2: Cloudlet 16 finished in Vm 0 and returned to broker.
+18:24:27.796 [sbt-bg-threads-1] INFO  DatacenterBroker - 30.88: DatacenterBrokerSimple2: Cloudlet 84 finished in Vm 4 and returned to broker.
+18:24:27.797 [sbt-bg-threads-1] INFO  DatacenterBroker - 32.88: DatacenterBrokerSimple2: Cloudlet 88 finished in Vm 0 and returned to broker.
+18:24:27.797 [sbt-bg-threads-1] INFO  DatacenterBroker - 32.88: DatacenterBrokerSimple2: Cloudlet 29 finished in Vm 5 and returned to broker.
+18:24:27.798 [sbt-bg-threads-1] INFO  DatacenterBroker - 33.89: DatacenterBrokerSimple2: Cloudlet 60 finished in Vm 4 and returned to broker.
+18:24:27.798 [sbt-bg-threads-1] INFO  DatacenterBroker - 33.89: DatacenterBrokerSimple2: Cloudlet 31 finished in Vm 7 and returned to broker.
+18:24:27.798 [sbt-bg-threads-1] INFO  DatacenterBroker - 33.89: DatacenterBrokerSimple2: Cloudlet 71 finished in Vm 7 and returned to broker.
+18:24:27.799 [sbt-bg-threads-1] INFO  DatacenterBroker - 34.76: DatacenterBrokerSimple2: Cloudlet 25 finished in Vm 1 and returned to broker.
+18:24:27.800 [sbt-bg-threads-1] INFO  DatacenterBroker - 36.76: DatacenterBrokerSimple2: Cloudlet 9 finished in Vm 1 and returned to broker.
+18:24:27.800 [sbt-bg-threads-1] INFO  DatacenterBroker - 37.88: DatacenterBrokerSimple2: Cloudlet 93 finished in Vm 5 and returned to broker.
+18:24:27.801 [sbt-bg-threads-1] INFO  DatacenterBroker - 37.88: DatacenterBrokerSimple2: Cloudlet 18 finished in Vm 2 and returned to broker.
+18:24:27.802 [sbt-bg-threads-1] INFO  DatacenterBroker - 39.88: DatacenterBrokerSimple2: Cloudlet 99 finished in Vm 3 and returned to broker.
+18:24:27.802 [sbt-bg-threads-1] INFO  DatacenterBroker - 40.88: DatacenterBrokerSimple2: Cloudlet 34 finished in Vm 2 and returned to broker.
+18:24:27.802 [sbt-bg-threads-1] INFO  DatacenterBroker - 40.88: DatacenterBrokerSimple2: Cloudlet 66 finished in Vm 2 and returned to broker.
+18:24:27.803 [sbt-bg-threads-1] INFO  DatacenterBroker - 41.76: DatacenterBrokerSimple2: Cloudlet 1 finished in Vm 1 and returned to broker.
+18:24:27.803 [sbt-bg-threads-1] INFO  DatacenterBroker - 41.87: DatacenterBrokerSimple2: Cloudlet 67 finished in Vm 3 and returned to broker.
+18:24:27.804 [sbt-bg-threads-1] INFO  DatacenterBroker - 42.88: DatacenterBrokerSimple2: Cloudlet 32 finished in Vm 0 and returned to broker.
+18:24:27.804 [sbt-bg-threads-1] INFO  DatacenterBroker - 43.88: DatacenterBrokerSimple2: Cloudlet 42 finished in Vm 2 and returned to broker.
+18:24:27.805 [sbt-bg-threads-1] INFO  DatacenterBroker - 45.76: DatacenterBrokerSimple2: Cloudlet 12 finished in Vm 4 and returned to broker.
+18:24:27.805 [sbt-bg-threads-1] INFO  DatacenterBroker - 45.87: DatacenterBrokerSimple2: Cloudlet 7 finished in Vm 7 and returned to broker.
+18:24:27.806 [sbt-bg-threads-1] INFO  DatacenterBroker - 46.76: DatacenterBrokerSimple2: Cloudlet 4 finished in Vm 4 and returned to broker.
+18:24:27.806 [sbt-bg-threads-1] INFO  DatacenterBroker - 46.87: DatacenterBrokerSimple2: Cloudlet 65 finished in Vm 1 and returned to broker.
+18:24:27.807 [sbt-bg-threads-1] INFO  DatacenterBroker - 46.87: DatacenterBrokerSimple2: Cloudlet 95 finished in Vm 7 and returned to broker.
+18:24:27.807 [sbt-bg-threads-1] INFO  DatacenterBroker - 47.88: DatacenterBrokerSimple2: Cloudlet 40 finished in Vm 0 and returned to broker.
+18:24:27.807 [sbt-bg-threads-1] INFO  DatacenterBroker - 47.88: DatacenterBrokerSimple2: Cloudlet 22 finished in Vm 6 and returned to broker.
+18:24:27.809 [sbt-bg-threads-1] INFO  DatacenterBroker - 52.88: DatacenterBrokerSimple2: Cloudlet 72 finished in Vm 0 and returned to broker.
+18:24:27.810 [sbt-bg-threads-1] INFO  DatacenterBroker - 54.76: DatacenterBrokerSimple2: Cloudlet 10 finished in Vm 2 and returned to broker.
+18:24:27.811 [sbt-bg-threads-1] INFO  DatacenterBroker - 54.87: DatacenterBrokerSimple2: Cloudlet 8 finished in Vm 0 and returned to broker.
+18:24:27.811 [sbt-bg-threads-1] INFO  DatacenterBroker - 54.87: DatacenterBrokerSimple2: Cloudlet 39 finished in Vm 7 and returned to broker.
+18:24:27.811 [sbt-bg-threads-1] INFO  DatacenterBroker - 55.88: DatacenterBrokerSimple2: Cloudlet 21 finished in Vm 5 and returned to broker.
+18:24:27.811 [sbt-bg-threads-1] INFO  DatacenterBroker - 55.88: DatacenterBrokerSimple2: Cloudlet 11 finished in Vm 3 and returned to broker.
+18:24:27.812 [sbt-bg-threads-1] INFO  DatacenterBroker - 57.88: DatacenterBrokerSimple2: Cloudlet 97 finished in Vm 1 and returned to broker.
+18:24:27.813 [sbt-bg-threads-1] INFO  DatacenterBroker - 58.88: DatacenterBrokerSimple2: Cloudlet 46 finished in Vm 6 and returned to broker.
+18:24:27.813 [sbt-bg-threads-1] INFO  DatacenterBroker - 59.88: DatacenterBrokerSimple2: Cloudlet 83 finished in Vm 3 and returned to broker.
+18:24:27.814 [sbt-bg-threads-1] INFO  DatacenterBroker - 59.88: DatacenterBrokerSimple2: Cloudlet 23 finished in Vm 7 and returned to broker.
+18:24:27.814 [sbt-bg-threads-1] INFO  DatacenterBroker - 60.88: DatacenterBrokerSimple2: Cloudlet 2 finished in Vm 2 and returned to broker.
+18:24:27.814 [sbt-bg-threads-1] INFO  DatacenterBroker - 60.88: DatacenterBrokerSimple2: Cloudlet 38 finished in Vm 6 and returned to broker.
+18:24:27.815 [sbt-bg-threads-1] INFO  DatacenterBroker - 62.76: DatacenterBrokerSimple2: Cloudlet 79 finished in Vm 7 and returned to broker.
+18:24:27.815 [sbt-bg-threads-1] INFO  DatacenterBroker - 62.87: DatacenterBrokerSimple2: Cloudlet 20 finished in Vm 4 and returned to broker.
+18:24:27.816 [sbt-bg-threads-1] INFO  DatacenterBroker - 63.76: DatacenterBrokerSimple2: Cloudlet 87 finished in Vm 7 and returned to broker.
+18:24:27.816 [sbt-bg-threads-1] INFO  DatacenterBroker - 63.87: DatacenterBrokerSimple2: Cloudlet 62 finished in Vm 6 and returned to broker.
+18:24:27.817 [sbt-bg-threads-1] INFO  DatacenterBroker - 66.88: DatacenterBrokerSimple2: Cloudlet 90 finished in Vm 2 and returned to broker.
+18:24:27.817 [sbt-bg-threads-1] INFO  DatacenterBroker - 69.88: DatacenterBrokerSimple2: Cloudlet 80 finished in Vm 0 and returned to broker.
+18:24:27.817 [sbt-bg-threads-1] INFO  DatacenterBroker - 69.88: DatacenterBrokerSimple2: Cloudlet 37 finished in Vm 5 and returned to broker.
+18:24:27.817 [sbt-bg-threads-1] INFO  DatacenterBroker - 69.88: DatacenterBrokerSimple2: Cloudlet 94 finished in Vm 6 and returned to broker.
+18:24:27.818 [sbt-bg-threads-1] INFO  DatacenterBroker - 71.88: DatacenterBrokerSimple2: Cloudlet 64 finished in Vm 0 and returned to broker.
+18:24:27.819 [sbt-bg-threads-1] INFO  DatacenterBroker - 72.88: DatacenterBrokerSimple2: Cloudlet 0 finished in Vm 0 and returned to broker.
+18:24:27.819 [sbt-bg-threads-1] INFO  DatacenterBroker - 72.88: DatacenterBrokerSimple2: Cloudlet 53 finished in Vm 5 and returned to broker.
+18:24:27.820 [sbt-bg-threads-1] INFO  DatacenterBroker - 74.88: DatacenterBrokerSimple2: Cloudlet 98 finished in Vm 2 and returned to broker.
+18:24:27.820 [sbt-bg-threads-1] INFO  DatacenterBroker - 75.88: DatacenterBrokerSimple2: Cloudlet 48 finished in Vm 0 and returned to broker.
+18:24:27.820 [sbt-bg-threads-1] INFO  DatacenterBroker - 75.88: DatacenterBrokerSimple2: Cloudlet 68 finished in Vm 4 and returned to broker.
+18:24:27.821 [sbt-bg-threads-1] INFO  DatacenterBroker - 78.88: DatacenterBrokerSimple2: Cloudlet 77 finished in Vm 5 and returned to broker.
+18:24:27.821 [sbt-bg-threads-1] INFO  DatacenterBroker - 78.88: DatacenterBrokerSimple2: Cloudlet 85 finished in Vm 5 and returned to broker.
+18:24:27.822 [sbt-bg-threads-1] INFO  DatacenterBroker - 79.88: DatacenterBrokerSimple2: Cloudlet 91 finished in Vm 3 and returned to broker.
+18:24:27.823 [sbt-bg-threads-1] INFO  DatacenterBroker - 85.88: DatacenterBrokerSimple2: Cloudlet 14 finished in Vm 6 and returned to broker.
+18:24:27.824 [sbt-bg-threads-1] INFO  DatacenterBroker - 86.76: DatacenterBrokerSimple2: Cloudlet 56 finished in Vm 0 and returned to broker.
+18:24:27.824 [sbt-bg-threads-1] INFO  DatacenterBroker - 86.76: DatacenterBrokerSimple2: Cloudlet 5 finished in Vm 5 and returned to broker.
+18:24:27.824 [sbt-bg-threads-1] INFO  DatacenterBroker - 86.87: DatacenterBrokerSimple2: Cloudlet 52 finished in Vm 4 and returned to broker.
+18:24:27.824 [sbt-bg-threads-1] INFO  DatacenterBroker - 86.87: DatacenterBrokerSimple2: Cloudlet 89 finished in Vm 1 and returned to broker.
+18:24:27.824 [sbt-bg-threads-1] INFO  DatacenterBroker - 86.87: DatacenterBrokerSimple2: Cloudlet 51 finished in Vm 3 and returned to broker.
+18:24:27.825 [sbt-bg-threads-1] INFO  DatacenterBroker - 89.76: DatacenterBrokerSimple2: Cloudlet 45 finished in Vm 5 and returned to broker.
+18:24:27.825 [sbt-bg-threads-1] INFO  DatacenterBroker - 89.87: DatacenterBrokerSimple2: Cloudlet 81 finished in Vm 1 and returned to broker.
+18:24:27.826 [sbt-bg-threads-1] INFO  DatacenterBroker - 89.87: DatacenterBrokerSimple2: Cloudlet 59 finished in Vm 3 and returned to broker.
+18:24:27.826 [sbt-bg-threads-1] INFO  DatacenterBroker - 92.88: DatacenterBrokerSimple2: Cloudlet 26 finished in Vm 2 and returned to broker.
+18:24:27.827 [sbt-bg-threads-1] INFO  DatacenterBroker - 93.88: DatacenterBrokerSimple2: Cloudlet 24 finished in Vm 0 and returned to broker.
+18:24:27.827 [sbt-bg-threads-1] INFO  DatacenterBroker - 94.88: DatacenterBrokerSimple2: Cloudlet 55 finished in Vm 7 and returned to broker.
+18:24:27.828 [sbt-bg-threads-1] INFO  DatacenterBroker - 95.76: DatacenterBrokerSimple2: Cloudlet 61 finished in Vm 5 and returned to broker.
+18:24:27.828 [sbt-bg-threads-1] INFO  DatacenterBroker - 95.87: DatacenterBrokerSimple2: Cloudlet 6 finished in Vm 6 and returned to broker.
+18:24:27.829 [sbt-bg-threads-1] INFO  DatacenterBroker - 97.88: DatacenterBrokerSimple2: Cloudlet 17 finished in Vm 1 and returned to broker.
+18:24:27.829 [sbt-bg-threads-1] INFO  DatacenterBroker - 99.88: DatacenterBrokerSimple2: Cloudlet 36 finished in Vm 4 and returned to broker.
+18:24:27.830 [sbt-bg-threads-1] INFO  DatacenterBroker - 99.88: DatacenterBrokerSimple2: Cloudlet 50 finished in Vm 2 and returned to broker.
+18:24:27.830 [sbt-bg-threads-1] INFO  DatacenterBroker - 99.88: DatacenterBrokerSimple2: Cloudlet 58 finished in Vm 2 and returned to broker.
+18:24:27.830 [sbt-bg-threads-1] INFO  DatacenterBroker - 100.88: DatacenterBrokerSimple2: Cloudlet 13 finished in Vm 5 and returned to broker.
+18:24:27.830 [sbt-bg-threads-1] INFO  DatacenterBroker - 100.88: DatacenterBrokerSimple2: Cloudlet 15 finished in Vm 7 and returned to broker.
+18:24:27.831 [sbt-bg-threads-1] INFO  CloudSim - 100.99: Processing last events before simulation shutdown.
+18:24:27.832 [sbt-bg-threads-1] INFO  DatacenterBroker - 100.99: DatacenterBrokerSimple2 is shutting down...
+18:24:27.832 [sbt-bg-threads-1] INFO  DatacenterBroker - 100.99: DatacenterBrokerSimple2: Requesting Vm 7 destruction.
+18:24:27.832 [sbt-bg-threads-1] INFO  DatacenterBroker - 100.99: DatacenterBrokerSimple2: Requesting Vm 6 destruction.
+18:24:27.832 [sbt-bg-threads-1] INFO  DatacenterBroker - 100.99: DatacenterBrokerSimple2: Requesting Vm 5 destruction.
+18:24:27.832 [sbt-bg-threads-1] INFO  DatacenterBroker - 100.99: DatacenterBrokerSimple2: Requesting Vm 4 destruction.
+18:24:27.832 [sbt-bg-threads-1] INFO  DatacenterBroker - 100.99: DatacenterBrokerSimple2: Requesting Vm 3 destruction.
+18:24:27.832 [sbt-bg-threads-1] INFO  DatacenterBroker - 100.99: DatacenterBrokerSimple2: Requesting Vm 2 destruction.
+18:24:27.832 [sbt-bg-threads-1] INFO  DatacenterBroker - 100.99: DatacenterBrokerSimple2: Requesting Vm 1 destruction.
+18:24:27.832 [sbt-bg-threads-1] INFO  DatacenterBroker - 100.99: DatacenterBrokerSimple2: Requesting Vm 0 destruction.
+18:24:27.833 [sbt-bg-threads-1] INFO  Datacenter - 100.99: DatacenterSimple: Vm 7 destroyed on Host 3/DC 1. 
+18:24:27.834 [sbt-bg-threads-1] INFO  Datacenter - 100.99: DatacenterSimple: Vm 6 destroyed on Host 2/DC 1. It had a total of 2 cloudlets (running + waiting). Some events may have been missed. You can try: (a) decreasing CloudSim's minTimeBetweenEvents and/or Datacenter's schedulingInterval attribute; (b) increasing broker's Vm destruction delay for idle VMs if you set it to zero; (c) defining Cloudlets with smaller length (your Datacenter's scheduling interval may be smaller than the time to finish some Cloudlets).
+18:24:27.834 [sbt-bg-threads-1] INFO  Datacenter - 100.99: DatacenterSimple: Vm 5 destroyed on Host 1/DC 1. 
+18:24:27.834 [sbt-bg-threads-1] INFO  Datacenter - 100.99: DatacenterSimple: Vm 4 destroyed on Host 0/DC 1. It had a total of 2 cloudlets (running + waiting). Some events may have been missed. You can try: (a) decreasing CloudSim's minTimeBetweenEvents and/or Datacenter's schedulingInterval attribute; (b) increasing broker's Vm destruction delay for idle VMs if you set it to zero; (c) defining Cloudlets with smaller length (your Datacenter's scheduling interval may be smaller than the time to finish some Cloudlets).
+18:24:27.834 [sbt-bg-threads-1] INFO  Datacenter - 100.99: DatacenterSimple: Vm 3 destroyed on Host 3/DC 1. It had a total of 2 cloudlets (running + waiting). Some events may have been missed. You can try: (a) decreasing CloudSim's minTimeBetweenEvents and/or Datacenter's schedulingInterval attribute; (b) increasing broker's Vm destruction delay for idle VMs if you set it to zero; (c) defining Cloudlets with smaller length (your Datacenter's scheduling interval may be smaller than the time to finish some Cloudlets).
+18:24:27.835 [sbt-bg-threads-1] INFO  Datacenter - 100.99: DatacenterSimple: Vm 2 destroyed on Host 2/DC 1. It had a total of 2 cloudlets (running + waiting). Some events may have been missed. You can try: (a) decreasing CloudSim's minTimeBetweenEvents and/or Datacenter's schedulingInterval attribute; (b) increasing broker's Vm destruction delay for idle VMs if you set it to zero; (c) defining Cloudlets with smaller length (your Datacenter's scheduling interval may be smaller than the time to finish some Cloudlets).
+18:24:27.836 [sbt-bg-threads-1] INFO  Datacenter - 100.99: DatacenterSimple: Vm 1 destroyed on Host 1/DC 1. It had a total of 1 cloudlets (running + waiting). Some events may have been missed. You can try: (a) decreasing CloudSim's minTimeBetweenEvents and/or Datacenter's schedulingInterval attribute; (b) increasing broker's Vm destruction delay for idle VMs if you set it to zero; (c) defining Cloudlets with smaller length (your Datacenter's scheduling interval may be smaller than the time to finish some Cloudlets).
+18:24:27.836 [sbt-bg-threads-1] INFO  Datacenter - 100.99: DatacenterSimple: Vm 0 destroyed on Host 0/DC 1. It had a total of 1 cloudlets (running + waiting). Some events may have been missed. You can try: (a) decreasing CloudSim's minTimeBetweenEvents and/or Datacenter's schedulingInterval attribute; (b) increasing broker's Vm destruction delay for idle VMs if you set it to zero; (c) defining Cloudlets with smaller length (your Datacenter's scheduling interval may be smaller than the time to finish some Cloudlets).
+18:24:27.837 [sbt-bg-threads-1] INFO  CloudSim - Simulation: No more future events
+
+18:24:27.837 [sbt-bg-threads-1] INFO  CloudInformationService - CloudInformationService0: Notify all CloudSim Plus entities to shutdown.
+
+18:24:27.839 [sbt-bg-threads-1] INFO  CloudSim - 
+================== Simulation finished at time 101.78, before completing, in reason of an explicit request to terminate() or terminateAt() ==================
+
+18:24:27.887 [sbt-bg-threads-1] INFO  java.lang.Class - Total execution time = 807.8933333333333 seconds
+18:24:27.887 [sbt-bg-threads-1] INFO  java.lang.Class - Total cost = 1446.0592 cost units
+18:24:27.887 [sbt-bg-threads-1] INFO  java.lang.Class - Total non idle vms = 8
+18:24:27.887 [sbt-bg-threads-1] INFO  java.lang.Class - Total processing cost = 6.059200000000001 cost units
+18:24:27.887 [sbt-bg-threads-1] INFO  java.lang.Class - Total memory cost = 960.0 cost units
+18:24:27.887 [sbt-bg-threads-1] INFO  java.lang.Class - Total BW cost = 400.0 cost units
+18:24:27.887 [sbt-bg-threads-1] INFO  java.lang.Class - Total storage cost = 80.0 cost units
+18:24:52.075 [sbt-bg-threads-1] INFO  java.lang.Class - In create vms. finished creating 4 vms for datacenter -7.0 datacenter
+18:24:52.077 [sbt-bg-threads-1] INFO  java.lang.Class - In create vms. finished creating 4 vms for datacenter -6.0 datacenter
+18:24:52.077 [sbt-bg-threads-1] INFO  java.lang.Class - In create vms. finished creating 4 vms for datacenter -4.0 datacenter
+18:24:52.077 [sbt-bg-threads-1] INFO  java.lang.Class - In create vms. finished creating 4 vms for datacenter 5.5 datacenter
+18:24:52.080 [sbt-bg-threads-1] INFO  java.lang.Class - Creating normal cloudlet
+18:24:52.082 [sbt-bg-threads-1] INFO  CloudSim - 
+================== Starting CloudSim Plus 6.4.3 ==================
+
+18:24:52.082 [sbt-bg-threads-1] INFO  DatacenterBroker - DatacenterBrokerSimple1 is starting...
+18:24:52.083 [sbt-bg-threads-1] INFO  Datacenter - 0.00: NetworkDatacenter2 is starting...
+18:24:52.083 [sbt-bg-threads-1] INFO  AbstractSwitch - EdgeSwitch3 is starting...
+18:24:52.083 [sbt-bg-threads-1] INFO  Datacenter - 0.00: NetworkDatacenter4 is starting...
+18:24:52.084 [sbt-bg-threads-1] INFO  AbstractSwitch - EdgeSwitch5 is starting...
+18:24:52.084 [sbt-bg-threads-1] INFO  Datacenter - 0.00: NetworkDatacenter6 is starting...
+18:24:52.084 [sbt-bg-threads-1] INFO  AbstractSwitch - EdgeSwitch7 is starting...
+18:24:52.084 [sbt-bg-threads-1] INFO  Datacenter - 0.00: NetworkDatacenter8 is starting...
+18:24:52.084 [sbt-bg-threads-1] INFO  AbstractSwitch - EdgeSwitch9 is starting...
+18:24:52.084 [sbt-bg-threads-1] INFO  CloudSim - Entities started.
+18:24:52.086 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.00: DatacenterBrokerSimple1: List of 4 datacenters(s) received.
+18:24:52.086 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.00: DatacenterBrokerSimple1: Trying to create Vm 0 in NetworkDatacenter2
+18:24:52.086 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.00: DatacenterBrokerSimple1: Trying to create Vm 1 in NetworkDatacenter2
+18:24:52.086 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.00: DatacenterBrokerSimple1: Trying to create Vm 2 in NetworkDatacenter2
+18:24:52.086 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.00: DatacenterBrokerSimple1: Trying to create Vm 3 in NetworkDatacenter2
+18:24:52.086 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.00: DatacenterBrokerSimple1: Trying to create Vm 4 in NetworkDatacenter4
+18:24:52.086 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.00: DatacenterBrokerSimple1: Trying to create Vm 5 in NetworkDatacenter4
+18:24:52.086 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.00: DatacenterBrokerSimple1: Trying to create Vm 6 in NetworkDatacenter4
+18:24:52.087 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.00: DatacenterBrokerSimple1: Trying to create Vm 7 in NetworkDatacenter4
+18:24:52.087 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.00: DatacenterBrokerSimple1: Trying to create Vm 8 in NetworkDatacenter6
+18:24:52.087 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.00: DatacenterBrokerSimple1: Trying to create Vm 9 in NetworkDatacenter6
+18:24:52.087 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.00: DatacenterBrokerSimple1: Trying to create Vm 10 in NetworkDatacenter6
+18:24:52.087 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.00: DatacenterBrokerSimple1: Trying to create Vm 11 in NetworkDatacenter6
+18:24:52.088 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.00: DatacenterBrokerSimple1: Trying to create Vm 12 in NetworkDatacenter8
+18:24:52.088 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.00: DatacenterBrokerSimple1: Trying to create Vm 13 in NetworkDatacenter8
+18:24:52.088 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.00: DatacenterBrokerSimple1: Trying to create Vm 14 in NetworkDatacenter8
+18:24:52.088 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.00: DatacenterBrokerSimple1: Trying to create Vm 15 in NetworkDatacenter8
+18:24:52.093 [sbt-bg-threads-1] INFO  VmAllocationPolicy - 1.00: VmAllocationPolicyBestFit: Vm 4 has been allocated to Host 0/DC 4
+18:24:52.094 [sbt-bg-threads-1] INFO  VmAllocationPolicy - 1.00: VmAllocationPolicyBestFit: Vm 5 has been allocated to Host 0/DC 4
+18:24:52.094 [sbt-bg-threads-1] INFO  VmAllocationPolicy - 1.00: VmAllocationPolicyBestFit: Vm 6 has been allocated to Host 0/DC 4
+18:24:52.095 [sbt-bg-threads-1] INFO  VmAllocationPolicy - 1.00: VmAllocationPolicyBestFit: Vm 7 has been allocated to Host 0/DC 4
+18:24:52.095 [sbt-bg-threads-1] INFO  VmAllocationPolicy - 3.00: VmAllocationPolicyBestFit: Vm 0 has been allocated to Host 0/DC 2
+18:24:52.095 [sbt-bg-threads-1] INFO  VmAllocationPolicy - 3.00: VmAllocationPolicyBestFit: Vm 1 has been allocated to Host 0/DC 2
+18:24:52.096 [sbt-bg-threads-1] INFO  VmAllocationPolicy - 3.00: VmAllocationPolicyBestFit: Vm 2 has been allocated to Host 0/DC 2
+18:24:52.096 [sbt-bg-threads-1] INFO  VmAllocationPolicy - 3.00: VmAllocationPolicyBestFit: Vm 3 has been allocated to Host 0/DC 2
+18:24:52.096 [sbt-bg-threads-1] INFO  VmAllocationPolicy - 3.00: VmAllocationPolicyBestFit: Vm 8 has been allocated to Host 0/DC 6
+18:24:52.097 [sbt-bg-threads-1] INFO  VmAllocationPolicy - 3.00: VmAllocationPolicyBestFit: Vm 9 has been allocated to Host 0/DC 6
+18:24:52.097 [sbt-bg-threads-1] INFO  VmAllocationPolicy - 3.00: VmAllocationPolicyBestFit: Vm 10 has been allocated to Host 0/DC 6
+18:24:52.097 [sbt-bg-threads-1] INFO  VmAllocationPolicy - 3.00: VmAllocationPolicyBestFit: Vm 11 has been allocated to Host 0/DC 6
+18:24:52.097 [sbt-bg-threads-1] INFO  VmAllocationPolicy - 13.00: VmAllocationPolicyBestFit: Vm 12 has been allocated to Host 0/DC 8
+18:24:52.098 [sbt-bg-threads-1] INFO  VmAllocationPolicy - 13.00: VmAllocationPolicyBestFit: Vm 13 has been allocated to Host 0/DC 8
+18:24:52.098 [sbt-bg-threads-1] INFO  VmAllocationPolicy - 13.00: VmAllocationPolicyBestFit: Vm 14 has been allocated to Host 0/DC 8
+18:24:52.098 [sbt-bg-threads-1] INFO  VmAllocationPolicy - 13.00: VmAllocationPolicyBestFit: Vm 15 has been allocated to Host 0/DC 8
+18:24:52.098 [sbt-bg-threads-1] INFO  DatacenterBroker - 26.10: DatacenterBrokerSimple1: Sending Cloudlet 0 to Vm 0 in Host 0/DC 2.
+18:24:52.099 [sbt-bg-threads-1] INFO  DatacenterBroker - 26.10: DatacenterBrokerSimple1: Sending Cloudlet 1 to Vm 1 in Host 0/DC 2.
+18:24:52.099 [sbt-bg-threads-1] INFO  DatacenterBroker - 26.10: DatacenterBrokerSimple1: Sending Cloudlet 2 to Vm 2 in Host 0/DC 2.
+18:24:52.099 [sbt-bg-threads-1] INFO  DatacenterBroker - 26.10: DatacenterBrokerSimple1: Sending Cloudlet 3 to Vm 3 in Host 0/DC 2.
+18:24:52.099 [sbt-bg-threads-1] INFO  DatacenterBroker - 26.10: DatacenterBrokerSimple1: Sending Cloudlet 4 to Vm 4 in Host 0/DC 4.
+18:24:52.099 [sbt-bg-threads-1] INFO  DatacenterBroker - 26.10: DatacenterBrokerSimple1: Sending Cloudlet 5 to Vm 5 in Host 0/DC 4.
+18:24:52.099 [sbt-bg-threads-1] INFO  DatacenterBroker - 26.10: DatacenterBrokerSimple1: Sending Cloudlet 6 to Vm 6 in Host 0/DC 4.
+18:24:52.099 [sbt-bg-threads-1] INFO  DatacenterBroker - 26.10: DatacenterBrokerSimple1: Sending Cloudlet 7 to Vm 7 in Host 0/DC 4.
+18:24:52.099 [sbt-bg-threads-1] INFO  DatacenterBroker - 26.10: DatacenterBrokerSimple1: Sending Cloudlet 8 to Vm 8 in Host 0/DC 6.
+18:24:52.100 [sbt-bg-threads-1] INFO  DatacenterBroker - 26.10: DatacenterBrokerSimple1: Sending Cloudlet 9 to Vm 9 in Host 0/DC 6.
+18:24:52.100 [sbt-bg-threads-1] INFO  DatacenterBroker - 26.10: DatacenterBrokerSimple1: Sending Cloudlet 10 to Vm 10 in Host 0/DC 6.
+18:24:52.100 [sbt-bg-threads-1] INFO  DatacenterBroker - 26.10: DatacenterBrokerSimple1: Sending Cloudlet 11 to Vm 11 in Host 0/DC 6.
+18:24:52.100 [sbt-bg-threads-1] INFO  DatacenterBroker - 26.10: DatacenterBrokerSimple1: Sending Cloudlet 12 to Vm 12 in Host 0/DC 8.
+18:24:52.100 [sbt-bg-threads-1] INFO  DatacenterBroker - 26.10: DatacenterBrokerSimple1: Sending Cloudlet 13 to Vm 13 in Host 0/DC 8.
+18:24:52.100 [sbt-bg-threads-1] INFO  DatacenterBroker - 26.10: DatacenterBrokerSimple1: Sending Cloudlet 14 to Vm 14 in Host 0/DC 8.
+18:24:52.100 [sbt-bg-threads-1] INFO  DatacenterBroker - 26.10: DatacenterBrokerSimple1: Sending Cloudlet 15 to Vm 15 in Host 0/DC 8.
+18:24:52.100 [sbt-bg-threads-1] INFO  DatacenterBroker - 26.10: DatacenterBrokerSimple1: Sending Cloudlet 16 to Vm 0 in Host 0/DC 2.
+18:24:52.101 [sbt-bg-threads-1] INFO  DatacenterBroker - 26.10: DatacenterBrokerSimple1: Sending Cloudlet 17 to Vm 1 in Host 0/DC 2.
+18:24:52.101 [sbt-bg-threads-1] INFO  DatacenterBroker - 26.10: DatacenterBrokerSimple1: Sending Cloudlet 18 to Vm 2 in Host 0/DC 2.
+18:24:52.101 [sbt-bg-threads-1] INFO  DatacenterBroker - 26.10: DatacenterBrokerSimple1: Sending Cloudlet 19 to Vm 3 in Host 0/DC 2.
+18:24:52.101 [sbt-bg-threads-1] INFO  DatacenterBroker - 26.10: DatacenterBrokerSimple1: Sending Cloudlet 20 to Vm 4 in Host 0/DC 4.
+18:24:52.101 [sbt-bg-threads-1] INFO  DatacenterBroker - 26.10: DatacenterBrokerSimple1: Sending Cloudlet 21 to Vm 5 in Host 0/DC 4.
+18:24:52.101 [sbt-bg-threads-1] INFO  DatacenterBroker - 26.10: DatacenterBrokerSimple1: Sending Cloudlet 22 to Vm 6 in Host 0/DC 4.
+18:24:52.101 [sbt-bg-threads-1] INFO  DatacenterBroker - 26.10: DatacenterBrokerSimple1: Sending Cloudlet 23 to Vm 7 in Host 0/DC 4.
+18:24:52.101 [sbt-bg-threads-1] INFO  DatacenterBroker - 26.10: DatacenterBrokerSimple1: Sending Cloudlet 24 to Vm 8 in Host 0/DC 6.
+18:24:52.102 [sbt-bg-threads-1] INFO  DatacenterBroker - 26.10: DatacenterBrokerSimple1: Sending Cloudlet 25 to Vm 9 in Host 0/DC 6.
+18:24:52.102 [sbt-bg-threads-1] INFO  DatacenterBroker - 26.10: DatacenterBrokerSimple1: Sending Cloudlet 26 to Vm 10 in Host 0/DC 6.
+18:24:52.102 [sbt-bg-threads-1] INFO  DatacenterBroker - 26.10: DatacenterBrokerSimple1: Sending Cloudlet 27 to Vm 11 in Host 0/DC 6.
+18:24:52.104 [sbt-bg-threads-1] INFO  DatacenterBroker - 26.10: DatacenterBrokerSimple1: Sending Cloudlet 28 to Vm 12 in Host 0/DC 8.
+18:24:52.104 [sbt-bg-threads-1] INFO  DatacenterBroker - 26.10: DatacenterBrokerSimple1: Sending Cloudlet 29 to Vm 13 in Host 0/DC 8.
+18:24:52.104 [sbt-bg-threads-1] INFO  DatacenterBroker - 26.10: DatacenterBrokerSimple1: Sending Cloudlet 30 to Vm 14 in Host 0/DC 8.
+18:24:52.104 [sbt-bg-threads-1] INFO  DatacenterBroker - 26.10: DatacenterBrokerSimple1: Sending Cloudlet 31 to Vm 15 in Host 0/DC 8.
+18:24:52.105 [sbt-bg-threads-1] INFO  DatacenterBroker - 26.10: DatacenterBrokerSimple1: Sending Cloudlet 32 to Vm 0 in Host 0/DC 2.
+18:24:52.105 [sbt-bg-threads-1] INFO  DatacenterBroker - 26.10: DatacenterBrokerSimple1: Sending Cloudlet 33 to Vm 1 in Host 0/DC 2.
+18:24:52.105 [sbt-bg-threads-1] INFO  DatacenterBroker - 26.10: DatacenterBrokerSimple1: Sending Cloudlet 34 to Vm 2 in Host 0/DC 2.
+18:24:52.106 [sbt-bg-threads-1] INFO  DatacenterBroker - 26.10: DatacenterBrokerSimple1: Sending Cloudlet 35 to Vm 3 in Host 0/DC 2.
+18:24:52.106 [sbt-bg-threads-1] INFO  DatacenterBroker - 26.10: DatacenterBrokerSimple1: Sending Cloudlet 36 to Vm 4 in Host 0/DC 4.
+18:24:52.107 [sbt-bg-threads-1] INFO  DatacenterBroker - 26.10: DatacenterBrokerSimple1: Sending Cloudlet 37 to Vm 5 in Host 0/DC 4.
+18:24:52.107 [sbt-bg-threads-1] INFO  DatacenterBroker - 26.10: DatacenterBrokerSimple1: Sending Cloudlet 38 to Vm 6 in Host 0/DC 4.
+18:24:52.107 [sbt-bg-threads-1] INFO  DatacenterBroker - 26.10: DatacenterBrokerSimple1: Sending Cloudlet 39 to Vm 7 in Host 0/DC 4.
+18:24:52.107 [sbt-bg-threads-1] INFO  DatacenterBroker - 26.10: DatacenterBrokerSimple1: Sending Cloudlet 40 to Vm 8 in Host 0/DC 6.
+18:24:52.107 [sbt-bg-threads-1] INFO  DatacenterBroker - 26.10: DatacenterBrokerSimple1: Sending Cloudlet 41 to Vm 9 in Host 0/DC 6.
+18:24:52.108 [sbt-bg-threads-1] INFO  DatacenterBroker - 26.10: DatacenterBrokerSimple1: Sending Cloudlet 42 to Vm 10 in Host 0/DC 6.
+18:24:52.108 [sbt-bg-threads-1] INFO  DatacenterBroker - 26.10: DatacenterBrokerSimple1: Sending Cloudlet 43 to Vm 11 in Host 0/DC 6.
+18:24:52.108 [sbt-bg-threads-1] INFO  DatacenterBroker - 26.10: DatacenterBrokerSimple1: Sending Cloudlet 44 to Vm 12 in Host 0/DC 8.
+18:24:52.108 [sbt-bg-threads-1] INFO  DatacenterBroker - 26.10: DatacenterBrokerSimple1: Sending Cloudlet 45 to Vm 13 in Host 0/DC 8.
+18:24:52.108 [sbt-bg-threads-1] INFO  DatacenterBroker - 26.10: DatacenterBrokerSimple1: Sending Cloudlet 46 to Vm 14 in Host 0/DC 8.
+18:24:52.108 [sbt-bg-threads-1] INFO  DatacenterBroker - 26.10: DatacenterBrokerSimple1: Sending Cloudlet 47 to Vm 15 in Host 0/DC 8.
+18:24:52.108 [sbt-bg-threads-1] INFO  DatacenterBroker - 26.10: DatacenterBrokerSimple1: Sending Cloudlet 48 to Vm 0 in Host 0/DC 2.
+18:24:52.108 [sbt-bg-threads-1] INFO  DatacenterBroker - 26.10: DatacenterBrokerSimple1: Sending Cloudlet 49 to Vm 1 in Host 0/DC 2.
+18:24:52.108 [sbt-bg-threads-1] INFO  DatacenterBroker - 26.10: DatacenterBrokerSimple1: Sending Cloudlet 50 to Vm 2 in Host 0/DC 2.
+18:24:52.108 [sbt-bg-threads-1] INFO  DatacenterBroker - 26.10: DatacenterBrokerSimple1: Sending Cloudlet 51 to Vm 3 in Host 0/DC 2.
+18:24:52.108 [sbt-bg-threads-1] INFO  DatacenterBroker - 26.10: DatacenterBrokerSimple1: Sending Cloudlet 52 to Vm 4 in Host 0/DC 4.
+18:24:52.109 [sbt-bg-threads-1] INFO  DatacenterBroker - 26.10: DatacenterBrokerSimple1: Sending Cloudlet 53 to Vm 5 in Host 0/DC 4.
+18:24:52.109 [sbt-bg-threads-1] INFO  DatacenterBroker - 26.10: DatacenterBrokerSimple1: Sending Cloudlet 54 to Vm 6 in Host 0/DC 4.
+18:24:52.109 [sbt-bg-threads-1] INFO  DatacenterBroker - 26.10: DatacenterBrokerSimple1: Sending Cloudlet 55 to Vm 7 in Host 0/DC 4.
+18:24:52.109 [sbt-bg-threads-1] INFO  DatacenterBroker - 26.10: DatacenterBrokerSimple1: Sending Cloudlet 56 to Vm 8 in Host 0/DC 6.
+18:24:52.109 [sbt-bg-threads-1] INFO  DatacenterBroker - 26.10: DatacenterBrokerSimple1: Sending Cloudlet 57 to Vm 9 in Host 0/DC 6.
+18:24:52.110 [sbt-bg-threads-1] INFO  DatacenterBroker - 26.10: DatacenterBrokerSimple1: Sending Cloudlet 58 to Vm 10 in Host 0/DC 6.
+18:24:52.110 [sbt-bg-threads-1] INFO  DatacenterBroker - 26.10: DatacenterBrokerSimple1: Sending Cloudlet 59 to Vm 11 in Host 0/DC 6.
+18:24:52.110 [sbt-bg-threads-1] INFO  DatacenterBroker - 26.10: DatacenterBrokerSimple1: Sending Cloudlet 60 to Vm 12 in Host 0/DC 8.
+18:24:52.110 [sbt-bg-threads-1] INFO  DatacenterBroker - 26.10: DatacenterBrokerSimple1: Sending Cloudlet 61 to Vm 13 in Host 0/DC 8.
+18:24:52.110 [sbt-bg-threads-1] INFO  DatacenterBroker - 26.10: DatacenterBrokerSimple1: Sending Cloudlet 62 to Vm 14 in Host 0/DC 8.
+18:24:52.110 [sbt-bg-threads-1] INFO  DatacenterBroker - 26.10: DatacenterBrokerSimple1: Sending Cloudlet 63 to Vm 15 in Host 0/DC 8.
+18:24:52.110 [sbt-bg-threads-1] INFO  DatacenterBroker - 26.10: DatacenterBrokerSimple1: Sending Cloudlet 64 to Vm 0 in Host 0/DC 2.
+18:24:52.110 [sbt-bg-threads-1] INFO  DatacenterBroker - 26.10: DatacenterBrokerSimple1: Sending Cloudlet 65 to Vm 1 in Host 0/DC 2.
+18:24:52.110 [sbt-bg-threads-1] INFO  DatacenterBroker - 26.10: DatacenterBrokerSimple1: Sending Cloudlet 66 to Vm 2 in Host 0/DC 2.
+18:24:52.110 [sbt-bg-threads-1] INFO  DatacenterBroker - 26.10: DatacenterBrokerSimple1: Sending Cloudlet 67 to Vm 3 in Host 0/DC 2.
+18:24:52.111 [sbt-bg-threads-1] INFO  DatacenterBroker - 26.10: DatacenterBrokerSimple1: Sending Cloudlet 68 to Vm 4 in Host 0/DC 4.
+18:24:52.111 [sbt-bg-threads-1] INFO  DatacenterBroker - 26.10: DatacenterBrokerSimple1: Sending Cloudlet 69 to Vm 5 in Host 0/DC 4.
+18:24:52.111 [sbt-bg-threads-1] INFO  DatacenterBroker - 26.10: DatacenterBrokerSimple1: Sending Cloudlet 70 to Vm 6 in Host 0/DC 4.
+18:24:52.111 [sbt-bg-threads-1] INFO  DatacenterBroker - 26.10: DatacenterBrokerSimple1: Sending Cloudlet 71 to Vm 7 in Host 0/DC 4.
+18:24:52.111 [sbt-bg-threads-1] INFO  DatacenterBroker - 26.10: DatacenterBrokerSimple1: Sending Cloudlet 72 to Vm 8 in Host 0/DC 6.
+18:24:52.111 [sbt-bg-threads-1] INFO  DatacenterBroker - 26.10: DatacenterBrokerSimple1: Sending Cloudlet 73 to Vm 9 in Host 0/DC 6.
+18:24:52.111 [sbt-bg-threads-1] INFO  DatacenterBroker - 26.10: DatacenterBrokerSimple1: Sending Cloudlet 74 to Vm 10 in Host 0/DC 6.
+18:24:52.111 [sbt-bg-threads-1] INFO  DatacenterBroker - 26.10: DatacenterBrokerSimple1: Sending Cloudlet 75 to Vm 11 in Host 0/DC 6.
+18:24:52.112 [sbt-bg-threads-1] INFO  DatacenterBroker - 26.10: DatacenterBrokerSimple1: Sending Cloudlet 76 to Vm 12 in Host 0/DC 8.
+18:24:52.112 [sbt-bg-threads-1] INFO  DatacenterBroker - 26.10: DatacenterBrokerSimple1: Sending Cloudlet 77 to Vm 13 in Host 0/DC 8.
+18:24:52.112 [sbt-bg-threads-1] INFO  DatacenterBroker - 26.10: DatacenterBrokerSimple1: Sending Cloudlet 78 to Vm 14 in Host 0/DC 8.
+18:24:52.112 [sbt-bg-threads-1] INFO  DatacenterBroker - 26.10: DatacenterBrokerSimple1: Sending Cloudlet 79 to Vm 15 in Host 0/DC 8.
+18:24:52.112 [sbt-bg-threads-1] INFO  DatacenterBroker - 26.10: DatacenterBrokerSimple1: Sending Cloudlet 80 to Vm 0 in Host 0/DC 2.
+18:24:52.112 [sbt-bg-threads-1] INFO  DatacenterBroker - 26.10: DatacenterBrokerSimple1: Sending Cloudlet 81 to Vm 1 in Host 0/DC 2.
+18:24:52.112 [sbt-bg-threads-1] INFO  DatacenterBroker - 26.10: DatacenterBrokerSimple1: Sending Cloudlet 82 to Vm 2 in Host 0/DC 2.
+18:24:52.112 [sbt-bg-threads-1] INFO  DatacenterBroker - 26.10: DatacenterBrokerSimple1: Sending Cloudlet 83 to Vm 3 in Host 0/DC 2.
+18:24:52.113 [sbt-bg-threads-1] INFO  DatacenterBroker - 26.10: DatacenterBrokerSimple1: Sending Cloudlet 84 to Vm 4 in Host 0/DC 4.
+18:24:52.113 [sbt-bg-threads-1] INFO  DatacenterBroker - 26.10: DatacenterBrokerSimple1: Sending Cloudlet 85 to Vm 5 in Host 0/DC 4.
+18:24:52.113 [sbt-bg-threads-1] INFO  DatacenterBroker - 26.10: DatacenterBrokerSimple1: Sending Cloudlet 86 to Vm 6 in Host 0/DC 4.
+18:24:52.113 [sbt-bg-threads-1] INFO  DatacenterBroker - 26.10: DatacenterBrokerSimple1: Sending Cloudlet 87 to Vm 7 in Host 0/DC 4.
+18:24:52.113 [sbt-bg-threads-1] INFO  DatacenterBroker - 26.10: DatacenterBrokerSimple1: Sending Cloudlet 88 to Vm 8 in Host 0/DC 6.
+18:24:52.113 [sbt-bg-threads-1] INFO  DatacenterBroker - 26.10: DatacenterBrokerSimple1: Sending Cloudlet 89 to Vm 9 in Host 0/DC 6.
+18:24:52.113 [sbt-bg-threads-1] INFO  DatacenterBroker - 26.10: DatacenterBrokerSimple1: Sending Cloudlet 90 to Vm 10 in Host 0/DC 6.
+18:24:52.113 [sbt-bg-threads-1] INFO  DatacenterBroker - 26.10: DatacenterBrokerSimple1: Sending Cloudlet 91 to Vm 11 in Host 0/DC 6.
+18:24:52.113 [sbt-bg-threads-1] INFO  DatacenterBroker - 26.10: DatacenterBrokerSimple1: Sending Cloudlet 92 to Vm 12 in Host 0/DC 8.
+18:24:52.113 [sbt-bg-threads-1] INFO  DatacenterBroker - 26.10: DatacenterBrokerSimple1: Sending Cloudlet 93 to Vm 13 in Host 0/DC 8.
+18:24:52.113 [sbt-bg-threads-1] INFO  DatacenterBroker - 26.10: DatacenterBrokerSimple1: Sending Cloudlet 94 to Vm 14 in Host 0/DC 8.
+18:24:52.114 [sbt-bg-threads-1] INFO  DatacenterBroker - 26.10: DatacenterBrokerSimple1: Sending Cloudlet 95 to Vm 15 in Host 0/DC 8.
+18:24:52.114 [sbt-bg-threads-1] INFO  DatacenterBroker - 26.10: DatacenterBrokerSimple1: Sending Cloudlet 96 to Vm 0 in Host 0/DC 2.
+18:24:52.114 [sbt-bg-threads-1] INFO  DatacenterBroker - 26.10: DatacenterBrokerSimple1: Sending Cloudlet 97 to Vm 1 in Host 0/DC 2.
+18:24:52.114 [sbt-bg-threads-1] INFO  DatacenterBroker - 26.10: DatacenterBrokerSimple1: Sending Cloudlet 98 to Vm 2 in Host 0/DC 2.
+18:24:52.114 [sbt-bg-threads-1] INFO  DatacenterBroker - 26.10: DatacenterBrokerSimple1: Sending Cloudlet 99 to Vm 3 in Host 0/DC 2.
+18:24:52.114 [sbt-bg-threads-1] INFO  DatacenterBroker - 26.10: DatacenterBrokerSimple1: Sending Cloudlet 100 to Vm 4 in Host 0/DC 4.
+18:24:52.114 [sbt-bg-threads-1] INFO  DatacenterBroker - 26.10: DatacenterBrokerSimple1: Sending Cloudlet 101 to Vm 5 in Host 0/DC 4.
+18:24:52.114 [sbt-bg-threads-1] INFO  DatacenterBroker - 26.10: DatacenterBrokerSimple1: Sending Cloudlet 102 to Vm 6 in Host 0/DC 4.
+18:24:52.114 [sbt-bg-threads-1] INFO  DatacenterBroker - 26.10: DatacenterBrokerSimple1: Sending Cloudlet 103 to Vm 7 in Host 0/DC 4.
+18:24:52.114 [sbt-bg-threads-1] INFO  DatacenterBroker - 26.10: DatacenterBrokerSimple1: Sending Cloudlet 104 to Vm 0 in Host 0/DC 2.
+18:24:52.114 [sbt-bg-threads-1] INFO  DatacenterBroker - 26.10: DatacenterBrokerSimple1: Sending Cloudlet 105 to Vm 1 in Host 0/DC 2.
+18:24:52.115 [sbt-bg-threads-1] INFO  DatacenterBroker - 26.10: DatacenterBrokerSimple1: Sending Cloudlet 106 to Vm 2 in Host 0/DC 2.
+18:24:52.115 [sbt-bg-threads-1] INFO  DatacenterBroker - 26.10: DatacenterBrokerSimple1: Sending Cloudlet 107 to Vm 3 in Host 0/DC 2.
+18:24:52.115 [sbt-bg-threads-1] INFO  DatacenterBroker - 26.10: DatacenterBrokerSimple1: Sending Cloudlet 108 to Vm 8 in Host 0/DC 6.
+18:24:52.115 [sbt-bg-threads-1] INFO  DatacenterBroker - 26.10: DatacenterBrokerSimple1: Sending Cloudlet 109 to Vm 9 in Host 0/DC 6.
+18:24:52.115 [sbt-bg-threads-1] INFO  DatacenterBroker - 26.10: DatacenterBrokerSimple1: Sending Cloudlet 110 to Vm 10 in Host 0/DC 6.
+18:24:52.115 [sbt-bg-threads-1] INFO  DatacenterBroker - 26.10: DatacenterBrokerSimple1: Sending Cloudlet 111 to Vm 11 in Host 0/DC 6.
+18:24:52.115 [sbt-bg-threads-1] INFO  DatacenterBroker - 26.10: DatacenterBrokerSimple1: Sending Cloudlet 112 to Vm 12 in Host 0/DC 8.
+18:24:52.115 [sbt-bg-threads-1] INFO  DatacenterBroker - 26.10: DatacenterBrokerSimple1: Sending Cloudlet 113 to Vm 13 in Host 0/DC 8.
+18:24:52.115 [sbt-bg-threads-1] INFO  DatacenterBroker - 26.10: DatacenterBrokerSimple1: Sending Cloudlet 114 to Vm 14 in Host 0/DC 8.
+18:24:52.115 [sbt-bg-threads-1] INFO  DatacenterBroker - 26.10: DatacenterBrokerSimple1: Sending Cloudlet 115 to Vm 15 in Host 0/DC 8.
+18:24:52.115 [sbt-bg-threads-1] INFO  DatacenterBroker - 26.10: DatacenterBrokerSimple1: Sending Cloudlet 116 to Vm 4 in Host 0/DC 4.
+18:24:52.115 [sbt-bg-threads-1] INFO  DatacenterBroker - 26.10: DatacenterBrokerSimple1: Sending Cloudlet 117 to Vm 5 in Host 0/DC 4.
+18:24:52.116 [sbt-bg-threads-1] INFO  DatacenterBroker - 26.10: DatacenterBrokerSimple1: Sending Cloudlet 118 to Vm 6 in Host 0/DC 4.
+18:24:52.116 [sbt-bg-threads-1] INFO  DatacenterBroker - 26.10: DatacenterBrokerSimple1: Sending Cloudlet 119 to Vm 7 in Host 0/DC 4.
+18:24:52.116 [sbt-bg-threads-1] INFO  DatacenterBroker - 26.10: DatacenterBrokerSimple1: Sending Cloudlet 120 to Vm 0 in Host 0/DC 2.
+18:24:52.116 [sbt-bg-threads-1] INFO  DatacenterBroker - 26.10: DatacenterBrokerSimple1: Sending Cloudlet 121 to Vm 1 in Host 0/DC 2.
+18:24:52.116 [sbt-bg-threads-1] INFO  DatacenterBroker - 26.10: DatacenterBrokerSimple1: Sending Cloudlet 122 to Vm 2 in Host 0/DC 2.
+18:24:52.116 [sbt-bg-threads-1] INFO  DatacenterBroker - 26.10: DatacenterBrokerSimple1: Sending Cloudlet 123 to Vm 3 in Host 0/DC 2.
+18:24:52.116 [sbt-bg-threads-1] INFO  DatacenterBroker - 26.10: DatacenterBrokerSimple1: Sending Cloudlet 124 to Vm 8 in Host 0/DC 6.
+18:24:52.116 [sbt-bg-threads-1] INFO  DatacenterBroker - 26.10: DatacenterBrokerSimple1: Sending Cloudlet 125 to Vm 9 in Host 0/DC 6.
+18:24:52.116 [sbt-bg-threads-1] INFO  DatacenterBroker - 26.10: DatacenterBrokerSimple1: Sending Cloudlet 126 to Vm 10 in Host 0/DC 6.
+18:24:52.116 [sbt-bg-threads-1] INFO  DatacenterBroker - 26.10: DatacenterBrokerSimple1: Sending Cloudlet 127 to Vm 11 in Host 0/DC 6.
+18:24:52.116 [sbt-bg-threads-1] INFO  DatacenterBroker - 26.10: DatacenterBrokerSimple1: Sending Cloudlet 128 to Vm 12 in Host 0/DC 8.
+18:24:52.116 [sbt-bg-threads-1] INFO  DatacenterBroker - 26.10: DatacenterBrokerSimple1: Sending Cloudlet 129 to Vm 13 in Host 0/DC 8.
+18:24:52.117 [sbt-bg-threads-1] INFO  DatacenterBroker - 26.10: DatacenterBrokerSimple1: Sending Cloudlet 130 to Vm 14 in Host 0/DC 8.
+18:24:52.117 [sbt-bg-threads-1] INFO  DatacenterBroker - 26.10: DatacenterBrokerSimple1: Sending Cloudlet 131 to Vm 15 in Host 0/DC 8.
+18:24:52.117 [sbt-bg-threads-1] INFO  DatacenterBroker - 26.10: DatacenterBrokerSimple1: Sending Cloudlet 132 to Vm 4 in Host 0/DC 4.
+18:24:52.117 [sbt-bg-threads-1] INFO  DatacenterBroker - 26.10: DatacenterBrokerSimple1: Sending Cloudlet 133 to Vm 5 in Host 0/DC 4.
+18:24:52.117 [sbt-bg-threads-1] INFO  DatacenterBroker - 26.10: DatacenterBrokerSimple1: Sending Cloudlet 134 to Vm 6 in Host 0/DC 4.
+18:24:52.117 [sbt-bg-threads-1] INFO  DatacenterBroker - 26.10: DatacenterBrokerSimple1: Sending Cloudlet 135 to Vm 7 in Host 0/DC 4.
+18:24:52.117 [sbt-bg-threads-1] INFO  DatacenterBroker - 26.10: DatacenterBrokerSimple1: Sending Cloudlet 136 to Vm 0 in Host 0/DC 2.
+18:24:52.117 [sbt-bg-threads-1] INFO  DatacenterBroker - 26.10: DatacenterBrokerSimple1: Sending Cloudlet 137 to Vm 1 in Host 0/DC 2.
+18:24:52.117 [sbt-bg-threads-1] INFO  DatacenterBroker - 26.10: DatacenterBrokerSimple1: Sending Cloudlet 138 to Vm 2 in Host 0/DC 2.
+18:24:52.117 [sbt-bg-threads-1] INFO  DatacenterBroker - 26.10: DatacenterBrokerSimple1: Sending Cloudlet 139 to Vm 3 in Host 0/DC 2.
+18:24:52.117 [sbt-bg-threads-1] INFO  DatacenterBroker - 26.10: DatacenterBrokerSimple1: Sending Cloudlet 140 to Vm 8 in Host 0/DC 6.
+18:24:52.117 [sbt-bg-threads-1] INFO  DatacenterBroker - 26.10: DatacenterBrokerSimple1: Sending Cloudlet 141 to Vm 9 in Host 0/DC 6.
+18:24:52.118 [sbt-bg-threads-1] INFO  DatacenterBroker - 26.10: DatacenterBrokerSimple1: Sending Cloudlet 142 to Vm 10 in Host 0/DC 6.
+18:24:52.118 [sbt-bg-threads-1] INFO  DatacenterBroker - 26.10: DatacenterBrokerSimple1: Sending Cloudlet 143 to Vm 11 in Host 0/DC 6.
+18:24:52.118 [sbt-bg-threads-1] INFO  DatacenterBroker - 26.10: DatacenterBrokerSimple1: Sending Cloudlet 144 to Vm 12 in Host 0/DC 8.
+18:24:52.118 [sbt-bg-threads-1] INFO  DatacenterBroker - 26.10: DatacenterBrokerSimple1: Sending Cloudlet 145 to Vm 13 in Host 0/DC 8.
+18:24:52.118 [sbt-bg-threads-1] INFO  DatacenterBroker - 26.10: DatacenterBrokerSimple1: Sending Cloudlet 146 to Vm 14 in Host 0/DC 8.
+18:24:52.118 [sbt-bg-threads-1] INFO  DatacenterBroker - 26.10: DatacenterBrokerSimple1: Sending Cloudlet 147 to Vm 15 in Host 0/DC 8.
+18:24:52.118 [sbt-bg-threads-1] INFO  DatacenterBroker - 26.10: DatacenterBrokerSimple1: Sending Cloudlet 148 to Vm 4 in Host 0/DC 4.
+18:24:52.118 [sbt-bg-threads-1] INFO  DatacenterBroker - 26.10: DatacenterBrokerSimple1: Sending Cloudlet 149 to Vm 5 in Host 0/DC 4.
+18:24:52.118 [sbt-bg-threads-1] INFO  DatacenterBroker - 26.10: DatacenterBrokerSimple1: Sending Cloudlet 150 to Vm 6 in Host 0/DC 4.
+18:24:52.118 [sbt-bg-threads-1] INFO  DatacenterBroker - 26.10: DatacenterBrokerSimple1: Sending Cloudlet 151 to Vm 7 in Host 0/DC 4.
+18:24:52.118 [sbt-bg-threads-1] INFO  DatacenterBroker - 26.10: DatacenterBrokerSimple1: Sending Cloudlet 152 to Vm 0 in Host 0/DC 2.
+18:24:52.118 [sbt-bg-threads-1] INFO  DatacenterBroker - 26.10: DatacenterBrokerSimple1: Sending Cloudlet 153 to Vm 1 in Host 0/DC 2.
+18:24:52.118 [sbt-bg-threads-1] INFO  DatacenterBroker - 26.10: DatacenterBrokerSimple1: Sending Cloudlet 154 to Vm 2 in Host 0/DC 2.
+18:24:52.119 [sbt-bg-threads-1] INFO  DatacenterBroker - 26.10: DatacenterBrokerSimple1: Sending Cloudlet 155 to Vm 3 in Host 0/DC 2.
+18:24:52.119 [sbt-bg-threads-1] INFO  DatacenterBroker - 26.10: DatacenterBrokerSimple1: Sending Cloudlet 156 to Vm 8 in Host 0/DC 6.
+18:24:52.119 [sbt-bg-threads-1] INFO  DatacenterBroker - 26.10: DatacenterBrokerSimple1: Sending Cloudlet 157 to Vm 9 in Host 0/DC 6.
+18:24:52.119 [sbt-bg-threads-1] INFO  DatacenterBroker - 26.10: DatacenterBrokerSimple1: Sending Cloudlet 158 to Vm 10 in Host 0/DC 6.
+18:24:52.119 [sbt-bg-threads-1] INFO  DatacenterBroker - 26.10: DatacenterBrokerSimple1: Sending Cloudlet 159 to Vm 11 in Host 0/DC 6.
+18:24:52.119 [sbt-bg-threads-1] INFO  DatacenterBroker - 26.10: DatacenterBrokerSimple1: Sending Cloudlet 160 to Vm 12 in Host 0/DC 8.
+18:24:52.119 [sbt-bg-threads-1] INFO  DatacenterBroker - 26.10: DatacenterBrokerSimple1: Sending Cloudlet 161 to Vm 13 in Host 0/DC 8.
+18:24:52.119 [sbt-bg-threads-1] INFO  DatacenterBroker - 26.10: DatacenterBrokerSimple1: Sending Cloudlet 162 to Vm 14 in Host 0/DC 8.
+18:24:52.119 [sbt-bg-threads-1] INFO  DatacenterBroker - 26.10: DatacenterBrokerSimple1: Sending Cloudlet 163 to Vm 15 in Host 0/DC 8.
+18:24:52.119 [sbt-bg-threads-1] INFO  DatacenterBroker - 26.10: DatacenterBrokerSimple1: Sending Cloudlet 164 to Vm 4 in Host 0/DC 4.
+18:24:52.119 [sbt-bg-threads-1] INFO  DatacenterBroker - 26.10: DatacenterBrokerSimple1: Sending Cloudlet 165 to Vm 5 in Host 0/DC 4.
+18:24:52.119 [sbt-bg-threads-1] INFO  DatacenterBroker - 26.10: DatacenterBrokerSimple1: Sending Cloudlet 166 to Vm 6 in Host 0/DC 4.
+18:24:52.119 [sbt-bg-threads-1] INFO  DatacenterBroker - 26.10: DatacenterBrokerSimple1: Sending Cloudlet 167 to Vm 7 in Host 0/DC 4.
+18:24:52.119 [sbt-bg-threads-1] INFO  DatacenterBroker - 26.10: DatacenterBrokerSimple1: Sending Cloudlet 168 to Vm 0 in Host 0/DC 2.
+18:24:52.120 [sbt-bg-threads-1] INFO  DatacenterBroker - 26.10: DatacenterBrokerSimple1: Sending Cloudlet 169 to Vm 1 in Host 0/DC 2.
+18:24:52.120 [sbt-bg-threads-1] INFO  DatacenterBroker - 26.10: DatacenterBrokerSimple1: Sending Cloudlet 170 to Vm 2 in Host 0/DC 2.
+18:24:52.120 [sbt-bg-threads-1] INFO  DatacenterBroker - 26.10: DatacenterBrokerSimple1: Sending Cloudlet 171 to Vm 3 in Host 0/DC 2.
+18:24:52.120 [sbt-bg-threads-1] INFO  DatacenterBroker - 26.10: DatacenterBrokerSimple1: Sending Cloudlet 172 to Vm 8 in Host 0/DC 6.
+18:24:52.120 [sbt-bg-threads-1] INFO  DatacenterBroker - 26.10: DatacenterBrokerSimple1: Sending Cloudlet 173 to Vm 9 in Host 0/DC 6.
+18:24:52.120 [sbt-bg-threads-1] INFO  DatacenterBroker - 26.10: DatacenterBrokerSimple1: Sending Cloudlet 174 to Vm 10 in Host 0/DC 6.
+18:24:52.120 [sbt-bg-threads-1] INFO  DatacenterBroker - 26.10: DatacenterBrokerSimple1: Sending Cloudlet 175 to Vm 11 in Host 0/DC 6.
+18:24:52.120 [sbt-bg-threads-1] INFO  DatacenterBroker - 26.10: DatacenterBrokerSimple1: Sending Cloudlet 176 to Vm 12 in Host 0/DC 8.
+18:24:52.120 [sbt-bg-threads-1] INFO  DatacenterBroker - 26.10: DatacenterBrokerSimple1: Sending Cloudlet 177 to Vm 13 in Host 0/DC 8.
+18:24:52.120 [sbt-bg-threads-1] INFO  DatacenterBroker - 26.10: DatacenterBrokerSimple1: Sending Cloudlet 178 to Vm 14 in Host 0/DC 8.
+18:24:52.120 [sbt-bg-threads-1] INFO  DatacenterBroker - 26.10: DatacenterBrokerSimple1: Sending Cloudlet 179 to Vm 15 in Host 0/DC 8.
+18:24:52.123 [sbt-bg-threads-1] INFO  DatacenterBroker - 26.10: DatacenterBrokerSimple1: Sending Cloudlet 180 to Vm 4 in Host 0/DC 4.
+18:24:52.123 [sbt-bg-threads-1] INFO  DatacenterBroker - 26.10: DatacenterBrokerSimple1: Sending Cloudlet 181 to Vm 5 in Host 0/DC 4.
+18:24:52.124 [sbt-bg-threads-1] INFO  DatacenterBroker - 26.10: DatacenterBrokerSimple1: Sending Cloudlet 182 to Vm 6 in Host 0/DC 4.
+18:24:52.124 [sbt-bg-threads-1] INFO  DatacenterBroker - 26.10: DatacenterBrokerSimple1: Sending Cloudlet 183 to Vm 7 in Host 0/DC 4.
+18:24:52.124 [sbt-bg-threads-1] INFO  DatacenterBroker - 26.10: DatacenterBrokerSimple1: Sending Cloudlet 184 to Vm 0 in Host 0/DC 2.
+18:24:52.124 [sbt-bg-threads-1] INFO  DatacenterBroker - 26.10: DatacenterBrokerSimple1: Sending Cloudlet 185 to Vm 1 in Host 0/DC 2.
+18:24:52.124 [sbt-bg-threads-1] INFO  DatacenterBroker - 26.10: DatacenterBrokerSimple1: Sending Cloudlet 186 to Vm 2 in Host 0/DC 2.
+18:24:52.124 [sbt-bg-threads-1] INFO  DatacenterBroker - 26.10: DatacenterBrokerSimple1: Sending Cloudlet 187 to Vm 3 in Host 0/DC 2.
+18:24:52.124 [sbt-bg-threads-1] INFO  DatacenterBroker - 26.10: DatacenterBrokerSimple1: Sending Cloudlet 188 to Vm 8 in Host 0/DC 6.
+18:24:52.124 [sbt-bg-threads-1] INFO  DatacenterBroker - 26.10: DatacenterBrokerSimple1: Sending Cloudlet 189 to Vm 9 in Host 0/DC 6.
+18:24:52.126 [sbt-bg-threads-1] INFO  DatacenterBroker - 26.10: DatacenterBrokerSimple1: Sending Cloudlet 190 to Vm 10 in Host 0/DC 6.
+18:24:52.127 [sbt-bg-threads-1] INFO  DatacenterBroker - 26.10: DatacenterBrokerSimple1: Sending Cloudlet 191 to Vm 11 in Host 0/DC 6.
+18:24:52.127 [sbt-bg-threads-1] INFO  DatacenterBroker - 26.10: DatacenterBrokerSimple1: Sending Cloudlet 192 to Vm 12 in Host 0/DC 8.
+18:24:52.127 [sbt-bg-threads-1] INFO  DatacenterBroker - 26.10: DatacenterBrokerSimple1: Sending Cloudlet 193 to Vm 13 in Host 0/DC 8.
+18:24:52.127 [sbt-bg-threads-1] INFO  DatacenterBroker - 26.10: DatacenterBrokerSimple1: Sending Cloudlet 194 to Vm 14 in Host 0/DC 8.
+18:24:52.127 [sbt-bg-threads-1] INFO  DatacenterBroker - 26.10: DatacenterBrokerSimple1: Sending Cloudlet 195 to Vm 15 in Host 0/DC 8.
+18:24:52.127 [sbt-bg-threads-1] INFO  DatacenterBroker - 26.10: DatacenterBrokerSimple1: Sending Cloudlet 196 to Vm 4 in Host 0/DC 4.
+18:24:52.128 [sbt-bg-threads-1] INFO  DatacenterBroker - 26.10: DatacenterBrokerSimple1: Sending Cloudlet 197 to Vm 5 in Host 0/DC 4.
+18:24:52.128 [sbt-bg-threads-1] INFO  DatacenterBroker - 26.10: DatacenterBrokerSimple1: Sending Cloudlet 198 to Vm 6 in Host 0/DC 4.
+18:24:52.128 [sbt-bg-threads-1] INFO  DatacenterBroker - 26.10: DatacenterBrokerSimple1: Sending Cloudlet 199 to Vm 7 in Host 0/DC 4.
+18:24:52.128 [sbt-bg-threads-1] INFO  DatacenterBroker - 26.10: DatacenterBrokerSimple1: All 200 waiting Cloudlets submitted to some VM.
+18:24:52.140 [sbt-bg-threads-1] INFO  DatacenterBroker - 32.21: DatacenterBrokerSimple1: Cloudlet 4 finished in Vm 4 and returned to broker.
+18:24:52.141 [sbt-bg-threads-1] INFO  DatacenterBroker - 32.21: DatacenterBrokerSimple1: Cloudlet 20 finished in Vm 4 and returned to broker.
+18:24:52.141 [sbt-bg-threads-1] INFO  DatacenterBroker - 32.21: DatacenterBrokerSimple1: Cloudlet 36 finished in Vm 4 and returned to broker.
+18:24:52.141 [sbt-bg-threads-1] INFO  DatacenterBroker - 32.21: DatacenterBrokerSimple1: Cloudlet 52 finished in Vm 4 and returned to broker.
+18:24:52.141 [sbt-bg-threads-1] INFO  DatacenterBroker - 32.21: DatacenterBrokerSimple1: Cloudlet 5 finished in Vm 5 and returned to broker.
+18:24:52.141 [sbt-bg-threads-1] INFO  DatacenterBroker - 32.21: DatacenterBrokerSimple1: Cloudlet 21 finished in Vm 5 and returned to broker.
+18:24:52.141 [sbt-bg-threads-1] INFO  DatacenterBroker - 32.21: DatacenterBrokerSimple1: Cloudlet 37 finished in Vm 5 and returned to broker.
+18:24:52.141 [sbt-bg-threads-1] INFO  DatacenterBroker - 32.21: DatacenterBrokerSimple1: Cloudlet 53 finished in Vm 5 and returned to broker.
+18:24:52.141 [sbt-bg-threads-1] INFO  DatacenterBroker - 32.21: DatacenterBrokerSimple1: Cloudlet 6 finished in Vm 6 and returned to broker.
+18:24:52.141 [sbt-bg-threads-1] INFO  DatacenterBroker - 32.21: DatacenterBrokerSimple1: Cloudlet 22 finished in Vm 6 and returned to broker.
+18:24:52.141 [sbt-bg-threads-1] INFO  DatacenterBroker - 32.21: DatacenterBrokerSimple1: Cloudlet 38 finished in Vm 6 and returned to broker.
+18:24:52.141 [sbt-bg-threads-1] INFO  DatacenterBroker - 32.21: DatacenterBrokerSimple1: Cloudlet 54 finished in Vm 6 and returned to broker.
+18:24:52.142 [sbt-bg-threads-1] INFO  DatacenterBroker - 32.21: DatacenterBrokerSimple1: Cloudlet 7 finished in Vm 7 and returned to broker.
+18:24:52.142 [sbt-bg-threads-1] INFO  DatacenterBroker - 32.21: DatacenterBrokerSimple1: Cloudlet 23 finished in Vm 7 and returned to broker.
+18:24:52.142 [sbt-bg-threads-1] INFO  DatacenterBroker - 32.21: DatacenterBrokerSimple1: Cloudlet 39 finished in Vm 7 and returned to broker.
+18:24:52.142 [sbt-bg-threads-1] INFO  DatacenterBroker - 32.21: DatacenterBrokerSimple1: Cloudlet 55 finished in Vm 7 and returned to broker.
+18:24:52.146 [sbt-bg-threads-1] INFO  DatacenterBroker - 34.21: DatacenterBrokerSimple1: Cloudlet 0 finished in Vm 0 and returned to broker.
+18:24:52.146 [sbt-bg-threads-1] INFO  DatacenterBroker - 34.21: DatacenterBrokerSimple1: Cloudlet 16 finished in Vm 0 and returned to broker.
+18:24:52.146 [sbt-bg-threads-1] INFO  DatacenterBroker - 34.21: DatacenterBrokerSimple1: Cloudlet 32 finished in Vm 0 and returned to broker.
+18:24:52.146 [sbt-bg-threads-1] INFO  DatacenterBroker - 34.21: DatacenterBrokerSimple1: Cloudlet 48 finished in Vm 0 and returned to broker.
+18:24:52.146 [sbt-bg-threads-1] INFO  DatacenterBroker - 34.21: DatacenterBrokerSimple1: Cloudlet 1 finished in Vm 1 and returned to broker.
+18:24:52.146 [sbt-bg-threads-1] INFO  DatacenterBroker - 34.21: DatacenterBrokerSimple1: Cloudlet 17 finished in Vm 1 and returned to broker.
+18:24:52.147 [sbt-bg-threads-1] INFO  DatacenterBroker - 34.21: DatacenterBrokerSimple1: Cloudlet 33 finished in Vm 1 and returned to broker.
+18:24:52.147 [sbt-bg-threads-1] INFO  DatacenterBroker - 34.21: DatacenterBrokerSimple1: Cloudlet 49 finished in Vm 1 and returned to broker.
+18:24:52.147 [sbt-bg-threads-1] INFO  DatacenterBroker - 34.21: DatacenterBrokerSimple1: Cloudlet 2 finished in Vm 2 and returned to broker.
+18:24:52.147 [sbt-bg-threads-1] INFO  DatacenterBroker - 34.21: DatacenterBrokerSimple1: Cloudlet 18 finished in Vm 2 and returned to broker.
+18:24:52.148 [sbt-bg-threads-1] INFO  DatacenterBroker - 34.21: DatacenterBrokerSimple1: Cloudlet 34 finished in Vm 2 and returned to broker.
+18:24:52.148 [sbt-bg-threads-1] INFO  DatacenterBroker - 34.21: DatacenterBrokerSimple1: Cloudlet 50 finished in Vm 2 and returned to broker.
+18:24:52.148 [sbt-bg-threads-1] INFO  DatacenterBroker - 34.21: DatacenterBrokerSimple1: Cloudlet 3 finished in Vm 3 and returned to broker.
+18:24:52.148 [sbt-bg-threads-1] INFO  DatacenterBroker - 34.21: DatacenterBrokerSimple1: Cloudlet 19 finished in Vm 3 and returned to broker.
+18:24:52.148 [sbt-bg-threads-1] INFO  DatacenterBroker - 34.21: DatacenterBrokerSimple1: Cloudlet 35 finished in Vm 3 and returned to broker.
+18:24:52.148 [sbt-bg-threads-1] INFO  DatacenterBroker - 34.21: DatacenterBrokerSimple1: Cloudlet 51 finished in Vm 3 and returned to broker.
+18:24:52.148 [sbt-bg-threads-1] INFO  DatacenterBroker - 34.21: DatacenterBrokerSimple1: Cloudlet 8 finished in Vm 8 and returned to broker.
+18:24:52.148 [sbt-bg-threads-1] INFO  DatacenterBroker - 34.21: DatacenterBrokerSimple1: Cloudlet 24 finished in Vm 8 and returned to broker.
+18:24:52.148 [sbt-bg-threads-1] INFO  DatacenterBroker - 34.21: DatacenterBrokerSimple1: Cloudlet 40 finished in Vm 8 and returned to broker.
+18:24:52.148 [sbt-bg-threads-1] INFO  DatacenterBroker - 34.21: DatacenterBrokerSimple1: Cloudlet 56 finished in Vm 8 and returned to broker.
+18:24:52.148 [sbt-bg-threads-1] INFO  DatacenterBroker - 34.21: DatacenterBrokerSimple1: Cloudlet 9 finished in Vm 9 and returned to broker.
+18:24:52.148 [sbt-bg-threads-1] INFO  DatacenterBroker - 34.21: DatacenterBrokerSimple1: Cloudlet 25 finished in Vm 9 and returned to broker.
+18:24:52.148 [sbt-bg-threads-1] INFO  DatacenterBroker - 34.21: DatacenterBrokerSimple1: Cloudlet 41 finished in Vm 9 and returned to broker.
+18:24:52.148 [sbt-bg-threads-1] INFO  DatacenterBroker - 34.21: DatacenterBrokerSimple1: Cloudlet 57 finished in Vm 9 and returned to broker.
+18:24:52.149 [sbt-bg-threads-1] INFO  DatacenterBroker - 34.21: DatacenterBrokerSimple1: Cloudlet 10 finished in Vm 10 and returned to broker.
+18:24:52.149 [sbt-bg-threads-1] INFO  DatacenterBroker - 34.21: DatacenterBrokerSimple1: Cloudlet 26 finished in Vm 10 and returned to broker.
+18:24:52.149 [sbt-bg-threads-1] INFO  DatacenterBroker - 34.21: DatacenterBrokerSimple1: Cloudlet 42 finished in Vm 10 and returned to broker.
+18:24:52.149 [sbt-bg-threads-1] INFO  DatacenterBroker - 34.21: DatacenterBrokerSimple1: Cloudlet 58 finished in Vm 10 and returned to broker.
+18:24:52.149 [sbt-bg-threads-1] INFO  DatacenterBroker - 34.21: DatacenterBrokerSimple1: Cloudlet 11 finished in Vm 11 and returned to broker.
+18:24:52.149 [sbt-bg-threads-1] INFO  DatacenterBroker - 34.21: DatacenterBrokerSimple1: Cloudlet 27 finished in Vm 11 and returned to broker.
+18:24:52.149 [sbt-bg-threads-1] INFO  DatacenterBroker - 34.21: DatacenterBrokerSimple1: Cloudlet 43 finished in Vm 11 and returned to broker.
+18:24:52.149 [sbt-bg-threads-1] INFO  DatacenterBroker - 34.21: DatacenterBrokerSimple1: Cloudlet 59 finished in Vm 11 and returned to broker.
+18:24:52.152 [sbt-bg-threads-1] INFO  DatacenterBroker - 37.43: DatacenterBrokerSimple1: Cloudlet 68 finished in Vm 4 and returned to broker.
+18:24:52.153 [sbt-bg-threads-1] INFO  DatacenterBroker - 37.43: DatacenterBrokerSimple1: Cloudlet 84 finished in Vm 4 and returned to broker.
+18:24:52.153 [sbt-bg-threads-1] INFO  DatacenterBroker - 37.43: DatacenterBrokerSimple1: Cloudlet 100 finished in Vm 4 and returned to broker.
+18:24:52.153 [sbt-bg-threads-1] INFO  DatacenterBroker - 37.43: DatacenterBrokerSimple1: Cloudlet 116 finished in Vm 4 and returned to broker.
+18:24:52.153 [sbt-bg-threads-1] INFO  DatacenterBroker - 37.43: DatacenterBrokerSimple1: Cloudlet 69 finished in Vm 5 and returned to broker.
+18:24:52.153 [sbt-bg-threads-1] INFO  DatacenterBroker - 37.43: DatacenterBrokerSimple1: Cloudlet 85 finished in Vm 5 and returned to broker.
+18:24:52.153 [sbt-bg-threads-1] INFO  DatacenterBroker - 37.43: DatacenterBrokerSimple1: Cloudlet 101 finished in Vm 5 and returned to broker.
+18:24:52.153 [sbt-bg-threads-1] INFO  DatacenterBroker - 37.43: DatacenterBrokerSimple1: Cloudlet 117 finished in Vm 5 and returned to broker.
+18:24:52.153 [sbt-bg-threads-1] INFO  DatacenterBroker - 37.43: DatacenterBrokerSimple1: Cloudlet 70 finished in Vm 6 and returned to broker.
+18:24:52.154 [sbt-bg-threads-1] INFO  DatacenterBroker - 37.43: DatacenterBrokerSimple1: Cloudlet 86 finished in Vm 6 and returned to broker.
+18:24:52.154 [sbt-bg-threads-1] INFO  DatacenterBroker - 37.43: DatacenterBrokerSimple1: Cloudlet 102 finished in Vm 6 and returned to broker.
+18:24:52.154 [sbt-bg-threads-1] INFO  DatacenterBroker - 37.43: DatacenterBrokerSimple1: Cloudlet 118 finished in Vm 6 and returned to broker.
+18:24:52.154 [sbt-bg-threads-1] INFO  DatacenterBroker - 37.43: DatacenterBrokerSimple1: Cloudlet 71 finished in Vm 7 and returned to broker.
+18:24:52.154 [sbt-bg-threads-1] INFO  DatacenterBroker - 37.43: DatacenterBrokerSimple1: Cloudlet 87 finished in Vm 7 and returned to broker.
+18:24:52.154 [sbt-bg-threads-1] INFO  DatacenterBroker - 37.43: DatacenterBrokerSimple1: Cloudlet 103 finished in Vm 7 and returned to broker.
+18:24:52.154 [sbt-bg-threads-1] INFO  DatacenterBroker - 37.43: DatacenterBrokerSimple1: Cloudlet 119 finished in Vm 7 and returned to broker.
+18:24:52.156 [sbt-bg-threads-1] INFO  DatacenterBroker - 39.43: DatacenterBrokerSimple1: Cloudlet 64 finished in Vm 0 and returned to broker.
+18:24:52.157 [sbt-bg-threads-1] INFO  DatacenterBroker - 39.43: DatacenterBrokerSimple1: Cloudlet 80 finished in Vm 0 and returned to broker.
+18:24:52.157 [sbt-bg-threads-1] INFO  DatacenterBroker - 39.43: DatacenterBrokerSimple1: Cloudlet 96 finished in Vm 0 and returned to broker.
+18:24:52.157 [sbt-bg-threads-1] INFO  DatacenterBroker - 39.43: DatacenterBrokerSimple1: Cloudlet 104 finished in Vm 0 and returned to broker.
+18:24:52.157 [sbt-bg-threads-1] INFO  DatacenterBroker - 39.43: DatacenterBrokerSimple1: Cloudlet 65 finished in Vm 1 and returned to broker.
+18:24:52.157 [sbt-bg-threads-1] INFO  DatacenterBroker - 39.43: DatacenterBrokerSimple1: Cloudlet 81 finished in Vm 1 and returned to broker.
+18:24:52.157 [sbt-bg-threads-1] INFO  DatacenterBroker - 39.43: DatacenterBrokerSimple1: Cloudlet 97 finished in Vm 1 and returned to broker.
+18:24:52.157 [sbt-bg-threads-1] INFO  DatacenterBroker - 39.43: DatacenterBrokerSimple1: Cloudlet 105 finished in Vm 1 and returned to broker.
+18:24:52.157 [sbt-bg-threads-1] INFO  DatacenterBroker - 39.43: DatacenterBrokerSimple1: Cloudlet 66 finished in Vm 2 and returned to broker.
+18:24:52.157 [sbt-bg-threads-1] INFO  DatacenterBroker - 39.43: DatacenterBrokerSimple1: Cloudlet 82 finished in Vm 2 and returned to broker.
+18:24:52.157 [sbt-bg-threads-1] INFO  DatacenterBroker - 39.43: DatacenterBrokerSimple1: Cloudlet 98 finished in Vm 2 and returned to broker.
+18:24:52.157 [sbt-bg-threads-1] INFO  DatacenterBroker - 39.43: DatacenterBrokerSimple1: Cloudlet 106 finished in Vm 2 and returned to broker.
+18:24:52.159 [sbt-bg-threads-1] INFO  DatacenterBroker - 39.43: DatacenterBrokerSimple1: Cloudlet 67 finished in Vm 3 and returned to broker.
+18:24:52.159 [sbt-bg-threads-1] INFO  DatacenterBroker - 39.43: DatacenterBrokerSimple1: Cloudlet 83 finished in Vm 3 and returned to broker.
+18:24:52.159 [sbt-bg-threads-1] INFO  DatacenterBroker - 39.43: DatacenterBrokerSimple1: Cloudlet 99 finished in Vm 3 and returned to broker.
+18:24:52.159 [sbt-bg-threads-1] INFO  DatacenterBroker - 39.43: DatacenterBrokerSimple1: Cloudlet 107 finished in Vm 3 and returned to broker.
+18:24:52.159 [sbt-bg-threads-1] INFO  DatacenterBroker - 39.43: DatacenterBrokerSimple1: Cloudlet 72 finished in Vm 8 and returned to broker.
+18:24:52.159 [sbt-bg-threads-1] INFO  DatacenterBroker - 39.43: DatacenterBrokerSimple1: Cloudlet 88 finished in Vm 8 and returned to broker.
+18:24:52.160 [sbt-bg-threads-1] INFO  DatacenterBroker - 39.43: DatacenterBrokerSimple1: Cloudlet 108 finished in Vm 8 and returned to broker.
+18:24:52.160 [sbt-bg-threads-1] INFO  DatacenterBroker - 39.43: DatacenterBrokerSimple1: Cloudlet 124 finished in Vm 8 and returned to broker.
+18:24:52.160 [sbt-bg-threads-1] INFO  DatacenterBroker - 39.43: DatacenterBrokerSimple1: Cloudlet 73 finished in Vm 9 and returned to broker.
+18:24:52.160 [sbt-bg-threads-1] INFO  DatacenterBroker - 39.43: DatacenterBrokerSimple1: Cloudlet 89 finished in Vm 9 and returned to broker.
+18:24:52.160 [sbt-bg-threads-1] INFO  DatacenterBroker - 39.43: DatacenterBrokerSimple1: Cloudlet 109 finished in Vm 9 and returned to broker.
+18:24:52.160 [sbt-bg-threads-1] INFO  DatacenterBroker - 39.43: DatacenterBrokerSimple1: Cloudlet 125 finished in Vm 9 and returned to broker.
+18:24:52.160 [sbt-bg-threads-1] INFO  DatacenterBroker - 39.43: DatacenterBrokerSimple1: Cloudlet 74 finished in Vm 10 and returned to broker.
+18:24:52.160 [sbt-bg-threads-1] INFO  DatacenterBroker - 39.43: DatacenterBrokerSimple1: Cloudlet 90 finished in Vm 10 and returned to broker.
+18:24:52.160 [sbt-bg-threads-1] INFO  DatacenterBroker - 39.43: DatacenterBrokerSimple1: Cloudlet 110 finished in Vm 10 and returned to broker.
+18:24:52.160 [sbt-bg-threads-1] INFO  DatacenterBroker - 39.43: DatacenterBrokerSimple1: Cloudlet 126 finished in Vm 10 and returned to broker.
+18:24:52.160 [sbt-bg-threads-1] INFO  DatacenterBroker - 39.43: DatacenterBrokerSimple1: Cloudlet 75 finished in Vm 11 and returned to broker.
+18:24:52.160 [sbt-bg-threads-1] INFO  DatacenterBroker - 39.43: DatacenterBrokerSimple1: Cloudlet 91 finished in Vm 11 and returned to broker.
+18:24:52.160 [sbt-bg-threads-1] INFO  DatacenterBroker - 39.43: DatacenterBrokerSimple1: Cloudlet 111 finished in Vm 11 and returned to broker.
+18:24:52.161 [sbt-bg-threads-1] INFO  DatacenterBroker - 39.43: DatacenterBrokerSimple1: Cloudlet 127 finished in Vm 11 and returned to broker.
+18:24:52.164 [sbt-bg-threads-1] INFO  DatacenterBroker - 42.65: DatacenterBrokerSimple1: Cloudlet 132 finished in Vm 4 and returned to broker.
+18:24:52.164 [sbt-bg-threads-1] INFO  DatacenterBroker - 42.65: DatacenterBrokerSimple1: Cloudlet 148 finished in Vm 4 and returned to broker.
+18:24:52.165 [sbt-bg-threads-1] INFO  DatacenterBroker - 42.65: DatacenterBrokerSimple1: Cloudlet 164 finished in Vm 4 and returned to broker.
+18:24:52.165 [sbt-bg-threads-1] INFO  DatacenterBroker - 42.65: DatacenterBrokerSimple1: Cloudlet 180 finished in Vm 4 and returned to broker.
+18:24:52.165 [sbt-bg-threads-1] INFO  DatacenterBroker - 42.65: DatacenterBrokerSimple1: Cloudlet 133 finished in Vm 5 and returned to broker.
+18:24:52.165 [sbt-bg-threads-1] INFO  DatacenterBroker - 42.65: DatacenterBrokerSimple1: Cloudlet 149 finished in Vm 5 and returned to broker.
+18:24:52.165 [sbt-bg-threads-1] INFO  DatacenterBroker - 42.65: DatacenterBrokerSimple1: Cloudlet 165 finished in Vm 5 and returned to broker.
+18:24:52.165 [sbt-bg-threads-1] INFO  DatacenterBroker - 42.65: DatacenterBrokerSimple1: Cloudlet 181 finished in Vm 5 and returned to broker.
+18:24:52.165 [sbt-bg-threads-1] INFO  DatacenterBroker - 42.65: DatacenterBrokerSimple1: Cloudlet 134 finished in Vm 6 and returned to broker.
+18:24:52.165 [sbt-bg-threads-1] INFO  DatacenterBroker - 42.65: DatacenterBrokerSimple1: Cloudlet 150 finished in Vm 6 and returned to broker.
+18:24:52.165 [sbt-bg-threads-1] INFO  DatacenterBroker - 42.65: DatacenterBrokerSimple1: Cloudlet 166 finished in Vm 6 and returned to broker.
+18:24:52.165 [sbt-bg-threads-1] INFO  DatacenterBroker - 42.65: DatacenterBrokerSimple1: Cloudlet 182 finished in Vm 6 and returned to broker.
+18:24:52.165 [sbt-bg-threads-1] INFO  DatacenterBroker - 42.65: DatacenterBrokerSimple1: Cloudlet 135 finished in Vm 7 and returned to broker.
+18:24:52.168 [sbt-bg-threads-1] INFO  DatacenterBroker - 42.65: DatacenterBrokerSimple1: Cloudlet 151 finished in Vm 7 and returned to broker.
+18:24:52.168 [sbt-bg-threads-1] INFO  DatacenterBroker - 42.65: DatacenterBrokerSimple1: Cloudlet 167 finished in Vm 7 and returned to broker.
+18:24:52.168 [sbt-bg-threads-1] INFO  DatacenterBroker - 42.65: DatacenterBrokerSimple1: Cloudlet 183 finished in Vm 7 and returned to broker.
+18:24:52.170 [sbt-bg-threads-1] INFO  DatacenterBroker - 44.21: DatacenterBrokerSimple1: Cloudlet 12 finished in Vm 12 and returned to broker.
+18:24:52.170 [sbt-bg-threads-1] INFO  DatacenterBroker - 44.21: DatacenterBrokerSimple1: Cloudlet 28 finished in Vm 12 and returned to broker.
+18:24:52.170 [sbt-bg-threads-1] INFO  DatacenterBroker - 44.21: DatacenterBrokerSimple1: Cloudlet 44 finished in Vm 12 and returned to broker.
+18:24:52.170 [sbt-bg-threads-1] INFO  DatacenterBroker - 44.21: DatacenterBrokerSimple1: Cloudlet 60 finished in Vm 12 and returned to broker.
+18:24:52.170 [sbt-bg-threads-1] INFO  DatacenterBroker - 44.21: DatacenterBrokerSimple1: Cloudlet 13 finished in Vm 13 and returned to broker.
+18:24:52.170 [sbt-bg-threads-1] INFO  DatacenterBroker - 44.21: DatacenterBrokerSimple1: Cloudlet 29 finished in Vm 13 and returned to broker.
+18:24:52.170 [sbt-bg-threads-1] INFO  DatacenterBroker - 44.21: DatacenterBrokerSimple1: Cloudlet 45 finished in Vm 13 and returned to broker.
+18:24:52.171 [sbt-bg-threads-1] INFO  DatacenterBroker - 44.21: DatacenterBrokerSimple1: Cloudlet 61 finished in Vm 13 and returned to broker.
+18:24:52.171 [sbt-bg-threads-1] INFO  DatacenterBroker - 44.21: DatacenterBrokerSimple1: Cloudlet 14 finished in Vm 14 and returned to broker.
+18:24:52.171 [sbt-bg-threads-1] INFO  DatacenterBroker - 44.21: DatacenterBrokerSimple1: Cloudlet 30 finished in Vm 14 and returned to broker.
+18:24:52.171 [sbt-bg-threads-1] INFO  DatacenterBroker - 44.21: DatacenterBrokerSimple1: Cloudlet 46 finished in Vm 14 and returned to broker.
+18:24:52.171 [sbt-bg-threads-1] INFO  DatacenterBroker - 44.21: DatacenterBrokerSimple1: Cloudlet 62 finished in Vm 14 and returned to broker.
+18:24:52.171 [sbt-bg-threads-1] INFO  DatacenterBroker - 44.21: DatacenterBrokerSimple1: Cloudlet 15 finished in Vm 15 and returned to broker.
+18:24:52.171 [sbt-bg-threads-1] INFO  DatacenterBroker - 44.21: DatacenterBrokerSimple1: Cloudlet 31 finished in Vm 15 and returned to broker.
+18:24:52.171 [sbt-bg-threads-1] INFO  DatacenterBroker - 44.21: DatacenterBrokerSimple1: Cloudlet 47 finished in Vm 15 and returned to broker.
+18:24:52.171 [sbt-bg-threads-1] INFO  DatacenterBroker - 44.21: DatacenterBrokerSimple1: Cloudlet 63 finished in Vm 15 and returned to broker.
+18:24:52.173 [sbt-bg-threads-1] INFO  DatacenterBroker - 44.65: DatacenterBrokerSimple1: Cloudlet 120 finished in Vm 0 and returned to broker.
+18:24:52.173 [sbt-bg-threads-1] INFO  DatacenterBroker - 44.65: DatacenterBrokerSimple1: Cloudlet 136 finished in Vm 0 and returned to broker.
+18:24:52.173 [sbt-bg-threads-1] INFO  DatacenterBroker - 44.65: DatacenterBrokerSimple1: Cloudlet 152 finished in Vm 0 and returned to broker.
+18:24:52.173 [sbt-bg-threads-1] INFO  DatacenterBroker - 44.65: DatacenterBrokerSimple1: Cloudlet 168 finished in Vm 0 and returned to broker.
+18:24:52.173 [sbt-bg-threads-1] INFO  DatacenterBroker - 44.65: DatacenterBrokerSimple1: Cloudlet 121 finished in Vm 1 and returned to broker.
+18:24:52.173 [sbt-bg-threads-1] INFO  DatacenterBroker - 44.65: DatacenterBrokerSimple1: Cloudlet 137 finished in Vm 1 and returned to broker.
+18:24:52.173 [sbt-bg-threads-1] INFO  DatacenterBroker - 44.65: DatacenterBrokerSimple1: Cloudlet 153 finished in Vm 1 and returned to broker.
+18:24:52.173 [sbt-bg-threads-1] INFO  DatacenterBroker - 44.65: DatacenterBrokerSimple1: Cloudlet 169 finished in Vm 1 and returned to broker.
+18:24:52.173 [sbt-bg-threads-1] INFO  DatacenterBroker - 44.65: DatacenterBrokerSimple1: Cloudlet 122 finished in Vm 2 and returned to broker.
+18:24:52.173 [sbt-bg-threads-1] INFO  DatacenterBroker - 44.65: DatacenterBrokerSimple1: Cloudlet 138 finished in Vm 2 and returned to broker.
+18:24:52.174 [sbt-bg-threads-1] INFO  DatacenterBroker - 44.65: DatacenterBrokerSimple1: Cloudlet 154 finished in Vm 2 and returned to broker.
+18:24:52.174 [sbt-bg-threads-1] INFO  DatacenterBroker - 44.65: DatacenterBrokerSimple1: Cloudlet 170 finished in Vm 2 and returned to broker.
+18:24:52.174 [sbt-bg-threads-1] INFO  DatacenterBroker - 44.65: DatacenterBrokerSimple1: Cloudlet 123 finished in Vm 3 and returned to broker.
+18:24:52.174 [sbt-bg-threads-1] INFO  DatacenterBroker - 44.65: DatacenterBrokerSimple1: Cloudlet 139 finished in Vm 3 and returned to broker.
+18:24:52.174 [sbt-bg-threads-1] INFO  DatacenterBroker - 44.65: DatacenterBrokerSimple1: Cloudlet 155 finished in Vm 3 and returned to broker.
+18:24:52.174 [sbt-bg-threads-1] INFO  DatacenterBroker - 44.65: DatacenterBrokerSimple1: Cloudlet 171 finished in Vm 3 and returned to broker.
+18:24:52.174 [sbt-bg-threads-1] INFO  DatacenterBroker - 44.65: DatacenterBrokerSimple1: Cloudlet 140 finished in Vm 8 and returned to broker.
+18:24:52.174 [sbt-bg-threads-1] INFO  DatacenterBroker - 44.65: DatacenterBrokerSimple1: Cloudlet 156 finished in Vm 8 and returned to broker.
+18:24:52.174 [sbt-bg-threads-1] INFO  DatacenterBroker - 44.65: DatacenterBrokerSimple1: Cloudlet 172 finished in Vm 8 and returned to broker.
+18:24:52.175 [sbt-bg-threads-1] INFO  DatacenterBroker - 44.65: DatacenterBrokerSimple1: Cloudlet 188 finished in Vm 8 and returned to broker.
+18:24:52.175 [sbt-bg-threads-1] INFO  DatacenterBroker - 44.65: DatacenterBrokerSimple1: Cloudlet 141 finished in Vm 9 and returned to broker.
+18:24:52.175 [sbt-bg-threads-1] INFO  DatacenterBroker - 44.65: DatacenterBrokerSimple1: Cloudlet 157 finished in Vm 9 and returned to broker.
+18:24:52.175 [sbt-bg-threads-1] INFO  DatacenterBroker - 44.65: DatacenterBrokerSimple1: Cloudlet 173 finished in Vm 9 and returned to broker.
+18:24:52.175 [sbt-bg-threads-1] INFO  DatacenterBroker - 44.65: DatacenterBrokerSimple1: Cloudlet 189 finished in Vm 9 and returned to broker.
+18:24:52.175 [sbt-bg-threads-1] INFO  DatacenterBroker - 44.65: DatacenterBrokerSimple1: Cloudlet 142 finished in Vm 10 and returned to broker.
+18:24:52.175 [sbt-bg-threads-1] INFO  DatacenterBroker - 44.65: DatacenterBrokerSimple1: Cloudlet 158 finished in Vm 10 and returned to broker.
+18:24:52.175 [sbt-bg-threads-1] INFO  DatacenterBroker - 44.65: DatacenterBrokerSimple1: Cloudlet 174 finished in Vm 10 and returned to broker.
+18:24:52.176 [sbt-bg-threads-1] INFO  DatacenterBroker - 44.65: DatacenterBrokerSimple1: Cloudlet 190 finished in Vm 10 and returned to broker.
+18:24:52.176 [sbt-bg-threads-1] INFO  DatacenterBroker - 44.65: DatacenterBrokerSimple1: Cloudlet 143 finished in Vm 11 and returned to broker.
+18:24:52.176 [sbt-bg-threads-1] INFO  DatacenterBroker - 44.65: DatacenterBrokerSimple1: Cloudlet 159 finished in Vm 11 and returned to broker.
+18:24:52.176 [sbt-bg-threads-1] INFO  DatacenterBroker - 44.65: DatacenterBrokerSimple1: Cloudlet 175 finished in Vm 11 and returned to broker.
+18:24:52.176 [sbt-bg-threads-1] INFO  DatacenterBroker - 44.65: DatacenterBrokerSimple1: Cloudlet 191 finished in Vm 11 and returned to broker.
+18:24:52.177 [sbt-bg-threads-1] INFO  DatacenterBroker - 47.87: DatacenterBrokerSimple1: Cloudlet 196 finished in Vm 4 and returned to broker.
+18:24:52.177 [sbt-bg-threads-1] INFO  DatacenterBroker - 47.87: DatacenterBrokerSimple1: Cloudlet 197 finished in Vm 5 and returned to broker.
+18:24:52.177 [sbt-bg-threads-1] INFO  DatacenterBroker - 47.87: DatacenterBrokerSimple1: Cloudlet 198 finished in Vm 6 and returned to broker.
+18:24:52.177 [sbt-bg-threads-1] INFO  DatacenterBroker - 47.87: DatacenterBrokerSimple1: Cloudlet 199 finished in Vm 7 and returned to broker.
+18:24:52.178 [sbt-bg-threads-1] INFO  DatacenterBroker - 49.43: DatacenterBrokerSimple1: Cloudlet 76 finished in Vm 12 and returned to broker.
+18:24:52.178 [sbt-bg-threads-1] INFO  DatacenterBroker - 49.43: DatacenterBrokerSimple1: Cloudlet 92 finished in Vm 12 and returned to broker.
+18:24:52.178 [sbt-bg-threads-1] INFO  DatacenterBroker - 49.43: DatacenterBrokerSimple1: Cloudlet 112 finished in Vm 12 and returned to broker.
+18:24:52.178 [sbt-bg-threads-1] INFO  DatacenterBroker - 49.43: DatacenterBrokerSimple1: Cloudlet 128 finished in Vm 12 and returned to broker.
+18:24:52.178 [sbt-bg-threads-1] INFO  DatacenterBroker - 49.43: DatacenterBrokerSimple1: Cloudlet 77 finished in Vm 13 and returned to broker.
+18:24:52.179 [sbt-bg-threads-1] INFO  DatacenterBroker - 49.43: DatacenterBrokerSimple1: Cloudlet 93 finished in Vm 13 and returned to broker.
+18:24:52.179 [sbt-bg-threads-1] INFO  DatacenterBroker - 49.43: DatacenterBrokerSimple1: Cloudlet 113 finished in Vm 13 and returned to broker.
+18:24:52.179 [sbt-bg-threads-1] INFO  DatacenterBroker - 49.43: DatacenterBrokerSimple1: Cloudlet 129 finished in Vm 13 and returned to broker.
+18:24:52.179 [sbt-bg-threads-1] INFO  DatacenterBroker - 49.43: DatacenterBrokerSimple1: Cloudlet 78 finished in Vm 14 and returned to broker.
+18:24:52.179 [sbt-bg-threads-1] INFO  DatacenterBroker - 49.43: DatacenterBrokerSimple1: Cloudlet 94 finished in Vm 14 and returned to broker.
+18:24:52.179 [sbt-bg-threads-1] INFO  DatacenterBroker - 49.43: DatacenterBrokerSimple1: Cloudlet 114 finished in Vm 14 and returned to broker.
+18:24:52.179 [sbt-bg-threads-1] INFO  DatacenterBroker - 49.43: DatacenterBrokerSimple1: Cloudlet 130 finished in Vm 14 and returned to broker.
+18:24:52.179 [sbt-bg-threads-1] INFO  DatacenterBroker - 49.43: DatacenterBrokerSimple1: Cloudlet 79 finished in Vm 15 and returned to broker.
+18:24:52.179 [sbt-bg-threads-1] INFO  DatacenterBroker - 49.43: DatacenterBrokerSimple1: Cloudlet 95 finished in Vm 15 and returned to broker.
+18:24:52.179 [sbt-bg-threads-1] INFO  DatacenterBroker - 49.43: DatacenterBrokerSimple1: Cloudlet 115 finished in Vm 15 and returned to broker.
+18:24:52.179 [sbt-bg-threads-1] INFO  DatacenterBroker - 49.43: DatacenterBrokerSimple1: Cloudlet 131 finished in Vm 15 and returned to broker.
+18:24:52.179 [sbt-bg-threads-1] INFO  DatacenterBroker - 49.87: DatacenterBrokerSimple1: Cloudlet 184 finished in Vm 0 and returned to broker.
+18:24:52.179 [sbt-bg-threads-1] INFO  DatacenterBroker - 49.87: DatacenterBrokerSimple1: Cloudlet 185 finished in Vm 1 and returned to broker.
+18:24:52.179 [sbt-bg-threads-1] INFO  DatacenterBroker - 49.87: DatacenterBrokerSimple1: Cloudlet 186 finished in Vm 2 and returned to broker.
+18:24:52.180 [sbt-bg-threads-1] INFO  DatacenterBroker - 49.87: DatacenterBrokerSimple1: Cloudlet 187 finished in Vm 3 and returned to broker.
+18:24:52.180 [sbt-bg-threads-1] INFO  DatacenterBroker - 54.65: DatacenterBrokerSimple1: Cloudlet 144 finished in Vm 12 and returned to broker.
+18:24:52.181 [sbt-bg-threads-1] INFO  DatacenterBroker - 54.65: DatacenterBrokerSimple1: Cloudlet 160 finished in Vm 12 and returned to broker.
+18:24:52.181 [sbt-bg-threads-1] INFO  DatacenterBroker - 54.65: DatacenterBrokerSimple1: Cloudlet 176 finished in Vm 12 and returned to broker.
+18:24:52.181 [sbt-bg-threads-1] INFO  DatacenterBroker - 54.65: DatacenterBrokerSimple1: Cloudlet 192 finished in Vm 12 and returned to broker.
+18:24:52.181 [sbt-bg-threads-1] INFO  DatacenterBroker - 54.65: DatacenterBrokerSimple1: Cloudlet 145 finished in Vm 13 and returned to broker.
+18:24:52.181 [sbt-bg-threads-1] INFO  DatacenterBroker - 54.65: DatacenterBrokerSimple1: Cloudlet 161 finished in Vm 13 and returned to broker.
+18:24:52.181 [sbt-bg-threads-1] INFO  DatacenterBroker - 54.65: DatacenterBrokerSimple1: Cloudlet 177 finished in Vm 13 and returned to broker.
+18:24:52.181 [sbt-bg-threads-1] INFO  DatacenterBroker - 54.65: DatacenterBrokerSimple1: Cloudlet 193 finished in Vm 13 and returned to broker.
+18:24:52.181 [sbt-bg-threads-1] INFO  DatacenterBroker - 54.65: DatacenterBrokerSimple1: Cloudlet 146 finished in Vm 14 and returned to broker.
+18:24:52.181 [sbt-bg-threads-1] INFO  DatacenterBroker - 54.65: DatacenterBrokerSimple1: Cloudlet 162 finished in Vm 14 and returned to broker.
+18:24:52.181 [sbt-bg-threads-1] INFO  DatacenterBroker - 54.65: DatacenterBrokerSimple1: Cloudlet 178 finished in Vm 14 and returned to broker.
+18:24:52.181 [sbt-bg-threads-1] INFO  DatacenterBroker - 54.65: DatacenterBrokerSimple1: Cloudlet 194 finished in Vm 14 and returned to broker.
+18:24:52.181 [sbt-bg-threads-1] INFO  DatacenterBroker - 54.65: DatacenterBrokerSimple1: Cloudlet 147 finished in Vm 15 and returned to broker.
+18:24:52.181 [sbt-bg-threads-1] INFO  DatacenterBroker - 54.65: DatacenterBrokerSimple1: Cloudlet 163 finished in Vm 15 and returned to broker.
+18:24:52.181 [sbt-bg-threads-1] INFO  DatacenterBroker - 54.65: DatacenterBrokerSimple1: Cloudlet 179 finished in Vm 15 and returned to broker.
+18:24:52.182 [sbt-bg-threads-1] INFO  DatacenterBroker - 54.65: DatacenterBrokerSimple1: Cloudlet 195 finished in Vm 15 and returned to broker.
+18:24:52.185 [sbt-bg-threads-1] INFO  CloudSim - 54.76: Simulation: Waiting more events or the clock to reach 100.0 (the termination time set). Checking new events in 1.0 seconds (Datacenter.getSchedulingInterval())
+18:24:52.186 [sbt-bg-threads-1] INFO  CloudSim - 55.76: Simulation: Waiting more events or the clock to reach 100.0 (the termination time set). Checking new events in 1.0 seconds (Datacenter.getSchedulingInterval())
+18:24:52.186 [sbt-bg-threads-1] INFO  CloudSim - 56.76: Simulation: Waiting more events or the clock to reach 100.0 (the termination time set). Checking new events in 1.0 seconds (Datacenter.getSchedulingInterval())
+18:24:52.186 [sbt-bg-threads-1] INFO  CloudSim - 57.76: Simulation: Waiting more events or the clock to reach 100.0 (the termination time set). Checking new events in 1.0 seconds (Datacenter.getSchedulingInterval())
+18:24:52.186 [sbt-bg-threads-1] INFO  CloudSim - 58.76: Simulation: Waiting more events or the clock to reach 100.0 (the termination time set). Checking new events in 1.0 seconds (Datacenter.getSchedulingInterval())
+18:24:52.186 [sbt-bg-threads-1] INFO  CloudSim - 59.76: Simulation: Waiting more events or the clock to reach 100.0 (the termination time set). Checking new events in 1.0 seconds (Datacenter.getSchedulingInterval())
+18:24:52.186 [sbt-bg-threads-1] INFO  CloudSim - 60.76: Simulation: Waiting more events or the clock to reach 100.0 (the termination time set). Checking new events in 1.0 seconds (Datacenter.getSchedulingInterval())
+18:24:52.187 [sbt-bg-threads-1] INFO  CloudSim - 61.76: Simulation: Waiting more events or the clock to reach 100.0 (the termination time set). Checking new events in 1.0 seconds (Datacenter.getSchedulingInterval())
+18:24:52.187 [sbt-bg-threads-1] INFO  CloudSim - 62.76: Simulation: Waiting more events or the clock to reach 100.0 (the termination time set). Checking new events in 1.0 seconds (Datacenter.getSchedulingInterval())
+18:24:52.187 [sbt-bg-threads-1] INFO  CloudSim - 63.76: Simulation: Waiting more events or the clock to reach 100.0 (the termination time set). Checking new events in 1.0 seconds (Datacenter.getSchedulingInterval())
+18:24:52.187 [sbt-bg-threads-1] INFO  CloudSim - 64.76: Simulation: Waiting more events or the clock to reach 100.0 (the termination time set). Checking new events in 1.0 seconds (Datacenter.getSchedulingInterval())
+18:24:52.187 [sbt-bg-threads-1] INFO  CloudSim - 65.76: Simulation: Waiting more events or the clock to reach 100.0 (the termination time set). Checking new events in 1.0 seconds (Datacenter.getSchedulingInterval())
+18:24:52.187 [sbt-bg-threads-1] INFO  CloudSim - 66.76: Simulation: Waiting more events or the clock to reach 100.0 (the termination time set). Checking new events in 1.0 seconds (Datacenter.getSchedulingInterval())
+18:24:52.187 [sbt-bg-threads-1] INFO  CloudSim - 67.76: Simulation: Waiting more events or the clock to reach 100.0 (the termination time set). Checking new events in 1.0 seconds (Datacenter.getSchedulingInterval())
+18:24:52.187 [sbt-bg-threads-1] INFO  CloudSim - 68.76: Simulation: Waiting more events or the clock to reach 100.0 (the termination time set). Checking new events in 1.0 seconds (Datacenter.getSchedulingInterval())
+18:24:52.189 [sbt-bg-threads-1] INFO  CloudSim - 69.76: Simulation: Waiting more events or the clock to reach 100.0 (the termination time set). Checking new events in 1.0 seconds (Datacenter.getSchedulingInterval())
+18:24:52.189 [sbt-bg-threads-1] INFO  CloudSim - 70.76: Simulation: Waiting more events or the clock to reach 100.0 (the termination time set). Checking new events in 1.0 seconds (Datacenter.getSchedulingInterval())
+18:24:52.189 [sbt-bg-threads-1] INFO  CloudSim - 71.76: Simulation: Waiting more events or the clock to reach 100.0 (the termination time set). Checking new events in 1.0 seconds (Datacenter.getSchedulingInterval())
+18:24:52.190 [sbt-bg-threads-1] INFO  CloudSim - 72.76: Simulation: Waiting more events or the clock to reach 100.0 (the termination time set). Checking new events in 1.0 seconds (Datacenter.getSchedulingInterval())
+18:24:52.190 [sbt-bg-threads-1] INFO  CloudSim - 73.76: Simulation: Waiting more events or the clock to reach 100.0 (the termination time set). Checking new events in 1.0 seconds (Datacenter.getSchedulingInterval())
+18:24:52.190 [sbt-bg-threads-1] INFO  CloudSim - 74.76: Simulation: Waiting more events or the clock to reach 100.0 (the termination time set). Checking new events in 1.0 seconds (Datacenter.getSchedulingInterval())
+18:24:52.190 [sbt-bg-threads-1] INFO  CloudSim - 75.76: Simulation: Waiting more events or the clock to reach 100.0 (the termination time set). Checking new events in 1.0 seconds (Datacenter.getSchedulingInterval())
+18:24:52.190 [sbt-bg-threads-1] INFO  CloudSim - 76.76: Simulation: Waiting more events or the clock to reach 100.0 (the termination time set). Checking new events in 1.0 seconds (Datacenter.getSchedulingInterval())
+18:24:52.190 [sbt-bg-threads-1] INFO  CloudSim - 77.76: Simulation: Waiting more events or the clock to reach 100.0 (the termination time set). Checking new events in 1.0 seconds (Datacenter.getSchedulingInterval())
+18:24:52.191 [sbt-bg-threads-1] INFO  CloudSim - 78.76: Simulation: Waiting more events or the clock to reach 100.0 (the termination time set). Checking new events in 1.0 seconds (Datacenter.getSchedulingInterval())
+18:24:52.191 [sbt-bg-threads-1] INFO  CloudSim - 79.76: Simulation: Waiting more events or the clock to reach 100.0 (the termination time set). Checking new events in 1.0 seconds (Datacenter.getSchedulingInterval())
+18:24:52.191 [sbt-bg-threads-1] INFO  CloudSim - 80.76: Simulation: Waiting more events or the clock to reach 100.0 (the termination time set). Checking new events in 1.0 seconds (Datacenter.getSchedulingInterval())
+18:24:52.191 [sbt-bg-threads-1] INFO  CloudSim - 81.76: Simulation: Waiting more events or the clock to reach 100.0 (the termination time set). Checking new events in 1.0 seconds (Datacenter.getSchedulingInterval())
+18:24:52.191 [sbt-bg-threads-1] INFO  CloudSim - 82.76: Simulation: Waiting more events or the clock to reach 100.0 (the termination time set). Checking new events in 1.0 seconds (Datacenter.getSchedulingInterval())
+18:24:52.191 [sbt-bg-threads-1] INFO  CloudSim - 83.76: Simulation: Waiting more events or the clock to reach 100.0 (the termination time set). Checking new events in 1.0 seconds (Datacenter.getSchedulingInterval())
+18:24:52.192 [sbt-bg-threads-1] INFO  CloudSim - 84.76: Simulation: Waiting more events or the clock to reach 100.0 (the termination time set). Checking new events in 1.0 seconds (Datacenter.getSchedulingInterval())
+18:24:52.192 [sbt-bg-threads-1] INFO  CloudSim - 85.76: Simulation: Waiting more events or the clock to reach 100.0 (the termination time set). Checking new events in 1.0 seconds (Datacenter.getSchedulingInterval())
+18:24:52.192 [sbt-bg-threads-1] INFO  CloudSim - 86.76: Simulation: Waiting more events or the clock to reach 100.0 (the termination time set). Checking new events in 1.0 seconds (Datacenter.getSchedulingInterval())
+18:24:52.192 [sbt-bg-threads-1] INFO  CloudSim - 87.76: Simulation: Waiting more events or the clock to reach 100.0 (the termination time set). Checking new events in 1.0 seconds (Datacenter.getSchedulingInterval())
+18:24:52.192 [sbt-bg-threads-1] INFO  CloudSim - 88.76: Simulation: Waiting more events or the clock to reach 100.0 (the termination time set). Checking new events in 1.0 seconds (Datacenter.getSchedulingInterval())
+18:24:52.193 [sbt-bg-threads-1] INFO  CloudSim - 89.76: Simulation: Waiting more events or the clock to reach 100.0 (the termination time set). Checking new events in 1.0 seconds (Datacenter.getSchedulingInterval())
+18:24:52.193 [sbt-bg-threads-1] INFO  CloudSim - 90.76: Simulation: Waiting more events or the clock to reach 100.0 (the termination time set). Checking new events in 1.0 seconds (Datacenter.getSchedulingInterval())
+18:24:52.193 [sbt-bg-threads-1] INFO  CloudSim - 91.76: Simulation: Waiting more events or the clock to reach 100.0 (the termination time set). Checking new events in 1.0 seconds (Datacenter.getSchedulingInterval())
+18:24:52.193 [sbt-bg-threads-1] INFO  CloudSim - 92.76: Simulation: Waiting more events or the clock to reach 100.0 (the termination time set). Checking new events in 1.0 seconds (Datacenter.getSchedulingInterval())
+18:24:52.193 [sbt-bg-threads-1] INFO  CloudSim - 93.76: Simulation: Waiting more events or the clock to reach 100.0 (the termination time set). Checking new events in 1.0 seconds (Datacenter.getSchedulingInterval())
+18:24:52.193 [sbt-bg-threads-1] INFO  CloudSim - 94.76: Simulation: Waiting more events or the clock to reach 100.0 (the termination time set). Checking new events in 1.0 seconds (Datacenter.getSchedulingInterval())
+18:24:52.193 [sbt-bg-threads-1] INFO  CloudSim - 95.76: Simulation: Waiting more events or the clock to reach 100.0 (the termination time set). Checking new events in 1.0 seconds (Datacenter.getSchedulingInterval())
+18:24:52.194 [sbt-bg-threads-1] INFO  CloudSim - 96.76: Simulation: Waiting more events or the clock to reach 100.0 (the termination time set). Checking new events in 1.0 seconds (Datacenter.getSchedulingInterval())
+18:24:52.194 [sbt-bg-threads-1] INFO  CloudSim - 97.76: Simulation: Waiting more events or the clock to reach 100.0 (the termination time set). Checking new events in 1.0 seconds (Datacenter.getSchedulingInterval())
+18:24:52.194 [sbt-bg-threads-1] INFO  CloudSim - 98.76: Simulation: Waiting more events or the clock to reach 100.0 (the termination time set). Checking new events in 1.0 seconds (Datacenter.getSchedulingInterval())
+18:24:52.194 [sbt-bg-threads-1] INFO  CloudSim - 99.76: Simulation: Waiting more events or the clock to reach 100.0 (the termination time set). Checking new events in 1.0 seconds (Datacenter.getSchedulingInterval())
+18:24:52.194 [sbt-bg-threads-1] INFO  CloudSim - 100.76: Simulation: Waiting more events or the clock to reach 100.0 (the termination time set). Checking new events in 1.0 seconds (Datacenter.getSchedulingInterval())
+18:24:52.196 [sbt-bg-threads-1] INFO  CloudSim - 101.76: Processing last events before simulation shutdown.
+18:24:52.196 [sbt-bg-threads-1] INFO  DatacenterBroker - 101.76: DatacenterBrokerSimple1 is shutting down...
+18:24:52.196 [sbt-bg-threads-1] INFO  DatacenterBroker - 101.76: DatacenterBrokerSimple1: Requesting Vm 15 destruction.
+18:24:52.196 [sbt-bg-threads-1] INFO  DatacenterBroker - 101.76: DatacenterBrokerSimple1: Requesting Vm 14 destruction.
+18:24:52.196 [sbt-bg-threads-1] INFO  DatacenterBroker - 101.76: DatacenterBrokerSimple1: Requesting Vm 13 destruction.
+18:24:52.196 [sbt-bg-threads-1] INFO  DatacenterBroker - 101.76: DatacenterBrokerSimple1: Requesting Vm 12 destruction.
+18:24:52.196 [sbt-bg-threads-1] INFO  DatacenterBroker - 101.76: DatacenterBrokerSimple1: Requesting Vm 11 destruction.
+18:24:52.196 [sbt-bg-threads-1] INFO  DatacenterBroker - 101.76: DatacenterBrokerSimple1: Requesting Vm 10 destruction.
+18:24:52.196 [sbt-bg-threads-1] INFO  DatacenterBroker - 101.76: DatacenterBrokerSimple1: Requesting Vm 9 destruction.
+18:24:52.196 [sbt-bg-threads-1] INFO  DatacenterBroker - 101.76: DatacenterBrokerSimple1: Requesting Vm 8 destruction.
+18:24:52.196 [sbt-bg-threads-1] INFO  DatacenterBroker - 101.76: DatacenterBrokerSimple1: Requesting Vm 3 destruction.
+18:24:52.196 [sbt-bg-threads-1] INFO  DatacenterBroker - 101.76: DatacenterBrokerSimple1: Requesting Vm 2 destruction.
+18:24:52.196 [sbt-bg-threads-1] INFO  DatacenterBroker - 101.76: DatacenterBrokerSimple1: Requesting Vm 1 destruction.
+18:24:52.197 [sbt-bg-threads-1] INFO  DatacenterBroker - 101.76: DatacenterBrokerSimple1: Requesting Vm 0 destruction.
+18:24:52.197 [sbt-bg-threads-1] INFO  DatacenterBroker - 101.76: DatacenterBrokerSimple1: Requesting Vm 7 destruction.
+18:24:52.197 [sbt-bg-threads-1] INFO  DatacenterBroker - 101.76: DatacenterBrokerSimple1: Requesting Vm 6 destruction.
+18:24:52.197 [sbt-bg-threads-1] INFO  DatacenterBroker - 101.76: DatacenterBrokerSimple1: Requesting Vm 5 destruction.
+18:24:52.197 [sbt-bg-threads-1] INFO  DatacenterBroker - 101.76: DatacenterBrokerSimple1: Requesting Vm 4 destruction.
+18:24:52.198 [sbt-bg-threads-1] INFO  Datacenter - 102.76: NetworkDatacenter: Vm 7 destroyed on Host 0/DC 4. 
+18:24:52.198 [sbt-bg-threads-1] INFO  Datacenter - 102.76: NetworkDatacenter: Vm 6 destroyed on Host 0/DC 4. 
+18:24:52.198 [sbt-bg-threads-1] INFO  Datacenter - 102.76: NetworkDatacenter: Vm 5 destroyed on Host 0/DC 4. 
+18:24:52.199 [sbt-bg-threads-1] INFO  Datacenter - 102.76: NetworkDatacenter: Vm 4 destroyed on Host 0/DC 4. 
+18:24:52.199 [sbt-bg-threads-1] INFO  Datacenter - 104.76: NetworkDatacenter: Vm 3 destroyed on Host 0/DC 2. 
+18:24:52.199 [sbt-bg-threads-1] INFO  Datacenter - 104.76: NetworkDatacenter: Vm 2 destroyed on Host 0/DC 2. 
+18:24:52.199 [sbt-bg-threads-1] INFO  Datacenter - 104.76: NetworkDatacenter: Vm 1 destroyed on Host 0/DC 2. 
+18:24:52.199 [sbt-bg-threads-1] INFO  Datacenter - 104.76: NetworkDatacenter: Vm 0 destroyed on Host 0/DC 2. 
+18:24:52.199 [sbt-bg-threads-1] INFO  Datacenter - 104.76: NetworkDatacenter: Vm 11 destroyed on Host 0/DC 6. 
+18:24:52.199 [sbt-bg-threads-1] INFO  Datacenter - 104.76: NetworkDatacenter: Vm 10 destroyed on Host 0/DC 6. 
+18:24:52.199 [sbt-bg-threads-1] INFO  Datacenter - 104.76: NetworkDatacenter: Vm 9 destroyed on Host 0/DC 6. 
+18:24:52.199 [sbt-bg-threads-1] INFO  Datacenter - 104.76: NetworkDatacenter: Vm 8 destroyed on Host 0/DC 6. 
+18:24:52.199 [sbt-bg-threads-1] INFO  Datacenter - 114.76: NetworkDatacenter: Vm 15 destroyed on Host 0/DC 8. 
+18:24:52.199 [sbt-bg-threads-1] INFO  Datacenter - 114.76: NetworkDatacenter: Vm 14 destroyed on Host 0/DC 8. 
+18:24:52.199 [sbt-bg-threads-1] INFO  Datacenter - 114.76: NetworkDatacenter: Vm 13 destroyed on Host 0/DC 8. 
+18:24:52.199 [sbt-bg-threads-1] INFO  Datacenter - 114.76: NetworkDatacenter: Vm 12 destroyed on Host 0/DC 8. 
+18:24:52.199 [sbt-bg-threads-1] INFO  CloudSim - Simulation: No more future events
+
+18:24:52.200 [sbt-bg-threads-1] INFO  CloudInformationService - CloudInformationService0: Notify all CloudSim Plus entities to shutdown.
+
+18:24:52.201 [sbt-bg-threads-1] INFO  AbstractSwitch - EdgeSwitch3 is shutting down...
+18:24:52.201 [sbt-bg-threads-1] INFO  AbstractSwitch - EdgeSwitch5 is shutting down...
+18:24:52.201 [sbt-bg-threads-1] INFO  AbstractSwitch - EdgeSwitch7 is shutting down...
+18:24:52.201 [sbt-bg-threads-1] INFO  AbstractSwitch - EdgeSwitch9 is shutting down...
+18:24:52.201 [sbt-bg-threads-1] INFO  CloudSim - 
+================== Simulation finished at time 114.76, before completing, in reason of an explicit request to terminate() or terminateAt() ==================
+
+18:24:52.281 [sbt-bg-threads-1] INFO  java.lang.Class - Total execution time = 1628.1599999999999 seconds
+18:24:52.281 [sbt-bg-threads-1] INFO  java.lang.Class - Total cost = 2748.595199999999 cost units
+18:24:52.281 [sbt-bg-threads-1] INFO  java.lang.Class - Total non idle vms = 16 cost units
+18:24:52.281 [sbt-bg-threads-1] INFO  java.lang.Class - Total processing cost = 12.211199999999998 cost units
+18:24:52.281 [sbt-bg-threads-1] INFO  java.lang.Class - Total memory cost = 1920.0 cost units
+18:24:52.281 [sbt-bg-threads-1] INFO  java.lang.Class - Total BW cost = 800.0 cost units
+18:24:52.281 [sbt-bg-threads-1] INFO  java.lang.Class - Total storage cost = 16.384000000000007 cost units
+18:25:02.593 [sbt-bg-threads-1] INFO  java.lang.Class - Starting the program
+18:25:02.676 [sbt-bg-threads-1] INFO  java.lang.Class - Created one processing element: List(PeSimple -1: FREE)
+18:25:02.687 [sbt-bg-threads-1] INFO  java.lang.Class - Created one host: List(Host -1)
+18:25:02.693 [sbt-bg-threads-1] INFO  java.lang.Class - Created one virtual machine: List(Vm -1)
+18:25:02.694 [sbt-bg-threads-1] INFO  java.lang.Class - Created a list of cloudlets: List(Cloudlet -1, Cloudlet -1)
+18:25:02.695 [sbt-bg-threads-1] INFO  java.lang.Class - Starting cloud simulation...
+18:25:02.695 [sbt-bg-threads-1] INFO  CloudSim - 
+================== Starting CloudSim Plus 6.4.3 ==================
+
+18:25:02.696 [sbt-bg-threads-1] INFO  DatacenterBroker - DatacenterBrokerSimple1 is starting...
+18:25:02.696 [sbt-bg-threads-1] INFO  Datacenter - 0.00: DatacenterSimple2 is starting...
+18:25:02.697 [sbt-bg-threads-1] INFO  CloudSim - Entities started.
+18:25:02.698 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.00: DatacenterBrokerSimple1: List of 1 datacenters(s) received.
+18:25:02.698 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.00: DatacenterBrokerSimple1: Trying to create Vm 0 in DatacenterSimple2
+18:25:02.701 [sbt-bg-threads-1] INFO  VmAllocationPolicy - 0.00: VmAllocationPolicySimple: Vm 0 has been allocated to Host 0/DC 2
+18:25:02.702 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.10: DatacenterBrokerSimple1: Sending Cloudlet 0 to Vm 0 in Host 0/DC 2.
+18:25:02.702 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.10: DatacenterBrokerSimple1: Sending Cloudlet 1 to Vm 0 in Host 0/DC 2.
+18:25:02.702 [sbt-bg-threads-1] INFO  DatacenterBroker - 0.10: DatacenterBrokerSimple1: All 2 waiting Cloudlets submitted to some VM.
+18:25:02.705 [sbt-bg-threads-1] INFO  DatacenterBroker - 40.11: DatacenterBrokerSimple1: Cloudlet 0 finished in Vm 0 and returned to broker.
+18:25:02.705 [sbt-bg-threads-1] INFO  DatacenterBroker - 40.11: DatacenterBrokerSimple1: Cloudlet 1 finished in Vm 0 and returned to broker.
+18:25:02.706 [sbt-bg-threads-1] INFO  CloudSim - 40.22: Processing last events before simulation shutdown.
+18:25:02.707 [sbt-bg-threads-1] INFO  DatacenterBroker - 40.22: DatacenterBrokerSimple1 is shutting down...
+18:25:02.707 [sbt-bg-threads-1] INFO  DatacenterBroker - 40.22: DatacenterBrokerSimple1: Requesting Vm 0 destruction.
+18:25:02.708 [sbt-bg-threads-1] INFO  Datacenter - 40.22: DatacenterSimple: Vm 0 destroyed on Host 0/DC 2. 
+18:25:02.708 [sbt-bg-threads-1] INFO  CloudSim - Simulation: No more future events
+
+18:25:02.708 [sbt-bg-threads-1] INFO  CloudInformationService - CloudInformationService0: Notify all CloudSim Plus entities to shutdown.
+
+18:25:02.708 [sbt-bg-threads-1] INFO  CloudSim - 
+================== Simulation finished at time 40.22 ==================
+
+18:25:02.714 [sbt-bg-threads-1] INFO  java.lang.Class - Finished the execution of the two cloud simulations
+18:34:49.934 [sbt-bg-threads-1] INFO  java.lang.Class - Starting the program
+18:34:49.936 [sbt-bg-threads-1] INFO  java.lang.Class - Finished the execution of the two cloud simulations
