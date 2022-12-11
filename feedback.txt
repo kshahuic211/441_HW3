@@ -1,0 +1,42 @@
+Student: Karan Shah
+Grader: Aditya Kanthale
+
+Grade: 20%
+
+Grading Criteria:
+ - only some basic simulations examples from some repos are given and nothing else is done: zero grade;
+	* tasks: -2%
+ - no AWS-like diagram with explanations: up to 10% lost;
+    * diagram: -0%
+ - no docker submission from graduate students only: up to 10% lost;
+    * docker image: -0%
+ - having less than five unit and/or integration scalatests: up to 10% lost;
+	* unit tests: -0%
+ - missing comments and explanations from your program: up to 10% lost;
+	* comments present: -0%
+ - logging is not used in your programs: up to 5% lost;
+	* logging present: -0%
+ - hardcoding the input values in the source code instead of using the suggested configuration libraries: up to 5% lost;
+	* configuration used: -0%
+ - for each used var for heap-based shared variables or mutable collections: 0.3% lost;
+    * no vars: -0%
+ - for each used while or for or other loops with induction variables to iterate over a collection: 0.5% lost;
+	* no loops: -0%
+ - no instructions in README.md on how to install and run your program: up to 10% lost;
+	* instructions present: -0%
+ - the program crashes without completing the core functionality: up to 15% lost;
+	* program doesn't crash: -0%
+ - the documentation exists but it is insufficient to understand your program design and models and how you assembled and deployed all components of your solution: up to 15% lost;
+	* documentation present: -1%
+
+Total Grade: 17%
+
+Comments:
+
+not enough number of simulations to do a comparative study
+no custom scheduling/allocation policy
+good job with architecture diagrams
+good job with autoscaling
+documentation requires more analysis and results
+
+Everything else is thorough. Keep it up!
